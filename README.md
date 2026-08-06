@@ -12,7 +12,7 @@ QCTiP 2026 is an international conference bringing together researchers, practit
 
 ### Prerequisites
 
-- Ruby (version 2.5 or higher)
+- Ruby (version 3.3 or higher)
 - Bundler gem
 
 ### Setup and Running Locally

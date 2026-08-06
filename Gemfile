@@ -1,13 +1,7 @@
 source "https://rubygems.org"
 
 # GitHub Pages gem with Jekyll
-gem "github-pages", group: :jekyll_plugins
-
-# Additional plugins
-group :jekyll_plugins do
-  gem "jekyll-remote-theme"
-  gem "jekyll-seo-tag"
-end
+gem "github-pages", ">= 232", group: :jekyll_plugins
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
