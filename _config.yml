@@ -5,16 +5,16 @@
 
 title: Quantum Computing Theory in Practice
 description: >-
-baseurl: "/qctip_2026" # the subpath of your site, e.g. /blog
+baseurl: "/qctip_2027" # the subpath of your site, e.g. /blog
 url: "https://qctipconf.github.io" # the base hostname & protocol for your site
 
 # Conference details
 conference:
   name: "Quantum Computing Theory in Practice"
-  short_name: "QCTiP 2026"
-  year: 2026
-  location: "University of Oxford"
-  city: "Oxford, United Kingdom"
+  short_name: "QCTiP 2027"
+  year: 2027
+  location: "Leiden University"
+  city: "Leiden, the Netherlands"
 
 # Theme settings
 theme: jekyll-theme-cayman
