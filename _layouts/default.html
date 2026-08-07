@@ -10,62 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#001158"> <!-- previously #002147 -->
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    
-    <!-- Critical CSS to prevent FOUC -->
-    <style>
-      /* Oxford Blue Color Scheme */
-      :root {
-        --leiden-blue: #001158;
-        --leiden-blue-light: #001777;
-        --leiden-blue-lighter: #001e99;
-        --leiden-blue-dark: #000a33;
-        --leiden-blue-accent: #002bdd;
-        --leiden-orange: #be4500;
-      }
-      
-      /* Critical header styles */
-      .page-header {
-        background: linear-gradient(120deg, var(--leiden-blue), var(--leiden-blue-accent)) !important;
-        background-image: linear-gradient(120deg, var(--leiden-blue), var(--leiden-blue-accent)) !important;
-        color: white;
-        padding: 2rem;
-      }
-      
-      /* Hide content initially to prevent FOUC */
-      body {
-        visibility: hidden;
-      }
-      
-      /* Show content once CSS is loaded */
-      .css-loaded body {
-        visibility: visible;
-      }
-      
-      /* Basic navigation styling */
-      nav {
-        text-align: center;
-      }
-      
-      nav a {
-        background: var(--leiden-blue) !important;
-        color: white !important;
-        padding: 0.75rem 1.5rem !important;
-        border-radius: 6px !important;
-        text-decoration: none !important;
-        margin: 0.25rem !important;
-        display: inline-block !important;
-        font-weight: 500 !important;
-        border: 2px solid var(--leiden-blue) !important;
-      }
-    </style>
-    
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.time | date: '%s' }}" onload="document.documentElement.classList.add('css-loaded')">
-    
-    <!-- Fallback for browsers that don't support onload -->
-    <noscript>
-      <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.time | date: '%s' }}">
-      <style>body { visibility: visible; }</style>
-    </noscript>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.time | date: '%s' }}">
     
     <!-- Font loading optimization -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" media="print" onload="this.media='all'">
@@ -99,13 +44,5 @@
         </span>
       </footer>
     </main>
-    
-    <!-- JavaScript to ensure CSS loaded class is added -->
-    <script>
-      // Add CSS loaded class after a short delay as fallback
-      setTimeout(function() {
-        document.documentElement.classList.add('css-loaded');
-      }, 100);
-    </script>
   </body>
 </html>
