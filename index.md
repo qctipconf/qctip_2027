@@ -1,9 +1,13 @@
 ---
 layout: default
-title: QCTiP 2026 Oxford
+title: QCTiP 2027 Leiden
 ---
 
-![Oxford Bridge of Sighs](assets/images/cover.png){:.center-image width=100%}
+![Oxford Bridge of Sighs](assets/images/qctip2027.png){:.center-image width=100%}
+<!--
+TODO: change figures
+-->
+
 
 ## Quantum Computing Theory in Practice (QCTiP)
 
@@ -12,52 +16,72 @@ We are witnessing impressive progress in quantum hardware development and ongoin
 are bringing practical applications of this hardware closer to reality.
 Quantum Computing Theory in Practice (QCTiP) aims to bring together the academic community and industry representatives to foster discussions on how to unlock the full potential of quantum computers.
 
-- **Venue:** Mathematical Institute, University of Oxford 
-- **Dates:** 20-22 April 2026
+- **Venue:** Staatsgehoorzaal, Leiden (the Netherlands) 
+- **Dates:** 12-14 April 2027
 - **Focus:** applied aspects of quantum computing theory
-- 360 participants
+- ~400 participants
 - brings together researchers, practitioners, and industry leaders
-- 2 keynote talks, 54 contributed talks
-- 3 industry talks, 200 poster presentations
-
-
+- keynote talks
+- industry talks
+- ~50 contributed talks
+- ~200 poster presentations
 
 
 ![Oxford Venue](assets/images/grp.jpg){:.center-image width=100%}
+<!--
+TODO: change figures
+-->
 
 ## Key Dates
 
-- **Registration Opening:** 12 December 2025
-- **Early Bird Registration Deadline:** 27 February 2026
-- **Talk Submission Opening:** 5 January 2026
-- **Talk Submission Deadline:** 11 January 2026
-- **Poster Submission Deadline:** 25 January 2026
-- **Talk Notification of Acceptance:** 20 February 2026
-- **Poster Notification of Acceptance:** 25 February 2026
-- **Registration Closing:** 23 March 2026
-- **Conference Dates:** 20-22 April 2026
+- **Registration Opening:** TODO
+- **Talk Submission Opening:** TODO
+- **Talk Submission Deadline:** TODO
+- **Poster Submission Deadline:** TODO
+- **Talk Notification of Acceptance:** TODO
+- **Poster Notification of Acceptance:** TODO
+- **Registration Closing:** TODO
+- **Conference Dates:** 12-14 April 2027
 
-**[Sign Up](https://forms.gle/F71sgY3am1UKYAck8) to our mailing list to receive notifications of important events,
+**[Sign Up](TODO-GoogleForm) to our mailing list to receive notifications of important events,
 such as when registration opens.**
+<!--
+TODO: prepare a mailing list
+-->
 
 
 ![Oxford Venue](assets/images/venue1.png){:.center-image width=100%}
+<!--
+TODO: change figures
+-->
 
 ## Local Organisers
 
-- **B&aacute;lint Koczor** (Mathematical Institute, University of Oxford)
-- **Aleks Kissinger** (Computer Science, University of Oxford)
+- **Julius Mildenberger** (LION & aQa, Leiden University)
+- **Stefano Polla** (HIMS, IvI & QuSoft, University of Amsterdam)
+- **Anastasiia Skuraviska** (LIACS & aQa, Leiden University)
+- **Jordi Tura** (LION & aQa, Leiden University)
+- **Vedran Dunjko** (LIACS & aQa, Leiden University)
+
 
 ## Programme Committee Chair
 
-- **Richard Kueng** (Johannes Kepler University Linz)
+- **TBD**
+<!--
+TODO: fill in once chosen
+-->
 
 ## Steering Committee
+
+- **B&aacute;lint Koczor** (Mathematical Institute, University of Oxford)
 - **Ophelia Crawford** (Riverlane)
 - **Elham Kashefi** (CNRS & Uni Edinburgh)
 - **Jens Eisert** (FU Berlin)
 - **Noah Linden** (Uni Bristol)
 - **Ashley Montanaro** (Uni Bristol & Phasecraft)
+<!--
+TODO: verify this is still current
+-->
 
 ## Code of Conduct
 
@@ -70,3 +94,6 @@ TODO: provide details for reporting CoC violations and getting local support. (s
 ## Confirmed Sponsors
 
 ![Acknowledgments](assets/images/sponsors.png){:.center-image width=100%}
+<!--
+TODO: change sponsor figure
+-->
