@@ -8,24 +8,25 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#002147">
+    <meta name="theme-color" content="#001158"> <!-- previously #002147 -->
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     
     <!-- Critical CSS to prevent FOUC -->
     <style>
       /* Oxford Blue Color Scheme */
       :root {
-        --oxford-blue: #002147;
-        --oxford-blue-light: #003366;
-        --oxford-blue-lighter: #004488;
-        --oxford-blue-dark: #001122;
-        --oxford-blue-accent: #0066cc;
+        --leiden-blue: #001158;
+        --leiden-blue-light: #001777;
+        --leiden-blue-lighter: #001e99;
+        --leiden-blue-dark: #000a33;
+        --leiden-blue-accent: #002bdd;
+        --leiden-orange: #be4500;
       }
       
       /* Critical header styles */
       .page-header {
-        background: linear-gradient(120deg, var(--oxford-blue), var(--oxford-blue-accent)) !important;
-        background-image: linear-gradient(120deg, var(--oxford-blue), var(--oxford-blue-accent)) !important;
+        background: linear-gradient(120deg, var(--leiden-blue), var(--leiden-blue-accent)) !important;
+        background-image: linear-gradient(120deg, var(--leiden-blue), var(--leiden-blue-accent)) !important;
         color: white;
         padding: 2rem;
       }
@@ -46,7 +47,7 @@
       }
       
       nav a {
-        background: var(--oxford-blue) !important;
+        background: var(--leiden-blue) !important;
         color: white !important;
         padding: 0.75rem 1.5rem !important;
         border-radius: 6px !important;
@@ -54,7 +55,7 @@
         margin: 0.25rem !important;
         display: inline-block !important;
         font-weight: 500 !important;
-        border: 2px solid var(--oxford-blue) !important;
+        border: 2px solid var(--leiden-blue) !important;
       }
     </style>
     

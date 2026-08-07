@@ -5,17 +5,18 @@
 
 /* Oxford Blue Color Scheme */
 :root {
-  --oxford-blue: #002147;
-  --oxford-blue-light: #003366;
-  --oxford-blue-lighter: #004488;
-  --oxford-blue-dark: #001122;
-  --oxford-blue-accent: #b0bce4;
+  --leiden-blue: #001158;
+  --leiden-blue-light: #001777;
+  --leiden-blue-lighter: #001e99;
+  --leiden-blue-dark: #000a33;
+  --leiden-blue-accent: #002bdd;
+  --leiden-orange: #be4500;
 }
 
 /* Header gradient - replace green with Oxford blue */
 .page-header {
-  background: var(--oxford-blue-accent) !important;
-  background-image: var(--oxford-blue-accent) !important;
+  background: var(--leiden-blue-accent) !important;
+  background-image: var(--leiden-blue-accent) !important;
   color: white;
   padding: 2rem;
 }
@@ -32,16 +33,16 @@
 
 /* Button styles */
 .btn {
-  background: linear-gradient(120deg, var(--oxford-blue), var(--oxford-blue-light)) !important;
-  border: 1px solid var(--oxford-blue-lighter) !important;
+  background: linear-gradient(120deg, var(--leiden-blue), var(--leiden-blue-light)) !important;
+  border: 1px solid var(--leiden-blue-lighter) !important;
   color: white !important;
   text-decoration: none !important;
   transition: all 0.3s ease;
 }
 
 .btn:hover {
-  background: linear-gradient(120deg, var(--oxford-blue-light), var(--oxford-blue-lighter)) !important;
-  border-color: var(--oxford-blue-lighter) !important;
+  background: linear-gradient(120deg, var(--leiden-blue-light), var(--leiden-blue-lighter)) !important;
+  border-color: var(--leiden-blue-lighter) !important;
   box-shadow: 0 4px 8px rgba(0, 33, 71, 0.3);
 }
 
@@ -51,7 +52,7 @@ nav {
 }
 
 nav a {
-  background: var(--oxford-blue) !important;
+  background: var(--leiden-blue) !important;
   color: white !important;
   padding: 0.75rem 1.5rem !important;
   border-radius: 6px !important;
@@ -60,54 +61,54 @@ nav a {
   display: inline-block !important;
   font-weight: 500 !important;
 //   transition: all 0.3s ease !important;
-  border: 2px solid var(--oxford-blue) !important;
+  border: 2px solid var(--leiden-blue) !important;
 }
 
 nav a:hover {
-  background: var(--oxford-blue-light) !important;
+  background: var(--leiden-blue-light) !important;
   box-shadow: 0 4px 8px rgba(0, 33, 71, 0.3) !important;
-  border-color: var(--oxford-blue-lighter) !important;
+  border-color: var(--leiden-blue-lighter) !important;
   transition: all 0.3s ease !important;
 }
 
 nav a:focus {
-  outline: 3px solid var(--oxford-blue-accent) !important;
+  outline: 3px solid var(--leiden-blue-accent) !important;
   outline-offset: 2px !important;
 }
 
 /* Link colors */
 .main-content a:not(nav a) {
-  color: var(--oxford-blue) !important;
+  color: var(--leiden-blue) !important;
   text-decoration: underline;
   transition: color 0.3s ease;
 }
 
 .main-content a:not(nav a):hover {
-  color: var(--oxford-blue-light) !important;
+  color: var(--leiden-blue-light) !important;
   text-decoration: none;
 }
 
 /* Code block styling */
 .main-content pre {
-  border: 1px solid var(--oxford-blue-lighter) !important;
+  border: 1px solid var(--leiden-blue-lighter) !important;
   background-color: rgba(0, 33, 71, 0.03) !important;
 }
 
 .main-content code {
   background-color: rgba(0, 33, 71, 0.08) !important;
   border: 1px solid rgba(0, 33, 71, 0.15) !important;
-  color: var(--oxford-blue-dark) !important;
+  color: var(--leiden-blue-dark) !important;
 }
 
 /* Table styling */
 .main-content table {
-  border: 1px solid var(--oxford-blue-lighter);
+  border: 1px solid var(--leiden-blue-lighter);
   border-radius: 6px;
   overflow: hidden;
 }
 
 .main-content table th {
-  background-color: var(--oxford-blue) !important;
+  background-color: var(--leiden-blue) !important;
   color: white !important;
   font-weight: 600;
   padding: 1rem;
@@ -128,7 +129,7 @@ nav a:focus {
 
 /* Blockquote styling */
 .main-content blockquote {
-  border-left: 4px solid var(--oxford-blue) !important;
+  border-left: 4px solid var(--leiden-blue) !important;
   background-color: rgba(0, 33, 71, 0.05) !important;
   padding: 1rem 1.5rem !important;
   margin: 1.5rem 0 !important;
@@ -160,7 +161,7 @@ nav a:focus {
 .main-content h4,
 .main-content h5,
 .main-content h6 {
-  color: var(--oxford-blue);
+  color: var(--leiden-blue);
   border-bottom: 2px solid rgba(0, 33, 71, 0.1);
   padding-bottom: 0.5rem;
   margin-top: 2rem;
@@ -179,13 +180,13 @@ nav a:focus {
 /* Focus states for accessibility */
 .btn:focus,
 .main-content a:focus {
-  outline: 3px solid var(--oxford-blue-accent) !important;
+  outline: 3px solid var(--leiden-blue-accent) !important;
   outline-offset: 2px;
 }
 
 /* Selection color */
 ::selection {
-  background-color: var(--oxford-blue-lighter);
+  background-color: var(--leiden-blue-lighter);
   color: white;
 }
 
@@ -199,7 +200,7 @@ nav a:focus {
 }
 
 .site-footer a {
-  color: var(--oxford-blue) !important;
+  color: var(--leiden-blue) !important;
 }
 
 /* Responsive adjustments */
@@ -223,7 +224,7 @@ nav a:focus {
 /* Additional styling for special elements */
 .highlight {
   background-color: rgba(0, 33, 71, 0.1);
-  border-left: 4px solid var(--oxford-blue);
+  border-left: 4px solid var(--leiden-blue);
   padding: 1rem;
   margin: 1rem 0;
   border-radius: 0 6px 6px 0;
@@ -231,7 +232,7 @@ nav a:focus {
 
 .announcement {
   background: linear-gradient(135deg, rgba(0, 33, 71, 0.1), rgba(0, 66, 204, 0.1));
-  border: 1px solid var(--oxford-blue-lighter);
+  border: 1px solid var(--leiden-blue-lighter);
   padding: 1.5rem;
   border-radius: 8px;
   margin: 1.5rem 0;
