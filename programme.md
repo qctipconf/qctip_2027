@@ -6,6 +6,7 @@ title: Programme
 ![Oxford Bridge of Sighs](assets/images/cover.png){:.center-image width=100%}
 
 # Keynote Talks
+<!-- TODO
 ### **Robin Kothari** (Google Quantum AI)
 Title: **Multi-qubit Toffoli with exponentially fewer T gates**<br />
 Time: Monday 20th April, 09:40–10:40<br />
@@ -29,6 +30,7 @@ Session chair: Matthias C. Caro
 - **Coral Westoby** (Nu Quantum)
 - **Harry Buhrman** (Quantinuum)
 
+
 # Schedule
 
 <details markdown="1">
@@ -36,31 +38,51 @@ Session chair: Matthias C. Caro
 <iframe src="./Schedule003.pdf" width="100%" height="600px"></iframe>
 </details>
 
+
 Alternatively, a PDF of the schedule can be downloaded by clicking [here](./Schedule003.pdf).
 
 # Book of Abstracts
 
 The book of abstracts can be downloaded by clicking [here](./QCTiP2026_Book_of_Abstracts_002.pdf).
+-->
 
 # Timetable
 Click on the parallel session to jump to the list of talks.
 
-|                         |               Lecture Theatre L1             |              Lecture Theatre L2             |
+|               |             Groote zaal            |              Aalmaarktzaal             |              Elsewhere             |
 |:-------------:|:-----------------------------------------:|:------------------------------------------:|
-| Monday <br> 9:30-10:40        | Welcome + Keynote Robin Kothari | |
-| Monday <br> 11:00–12:30       | [Algorithms I -- Optimization](#algorithms-i--optimization) | [QEC I -- Decoders](#qec-i--decoders) |
-| Monday <br> 13:30–15:00       | [Algorithms II -- Quantum Chemistry](#algorithms-ii--quantum-chemistry) | [Testing and Verification](#testing-and-verification) |
-| Monday <br> 15:30–17:00       | [Learning I](#learning-i) | [Algorithms III -- General](#algorithms-iii--general) |
-| Monday <br> 17:00-18:00       | <span style="color:#999">Poster Session 1 <br> (North/South Mezzanine)</span> ||
-| Tuesday <br> 09:30–11:00      | [Many-Body Quantum Physics and Information](#many-body-quantum-physics-and-information) | [Compilation and Resource Estimation](#compilation-and-resource-estimation) |
-| Tuesday <br> 11:30–13:00      | [Algorithms IV -- Dynamics](#algorithms-iv--dynamics) | [QEC II - Topological Codes](#qec-ii---topological-codes) |
-| Tuesday <br> 14:00-15:00      | Industry talks | |
-| Tuesday <br> 15:00-16:30       | <span style="color:#999">Group Photo + Poster Session 2 <br> (North/South Mezzanine)</span> ||
-| Tuesday <br> 16:30–18:00      | [Learning II](#learning-ii) | [Benchmarking and Classical Simulation](#benchmarking-and-classical-simulation) |
-| Wednesday <br> 9:30-10:40     | Keynote Simon Benjamin | |
-| Wednesday <br> 11:00–12:30    | [Algorithms V -- Hamiltonian Simulation](#algorithms-v--hamiltonian-simulation) | [QEC III -- Fault Tolerance and Compilation](#qec-iii--fault-tolerance-and-compilation) |
-| Wednesday <br> 13:30–15:00    | [Fermionic Systems](#fermionic-systems) | [Quantum Control and Emulation](#quantum-control-and-emulation) |
-| Wednesday <br> 15:30–17:00    | [Algorithms VI -- Optimization II](#algorithms-vi--optimization-ii) | [QEC IV -- qLDPC Codes](#qec-iv--qldpc-codes) |
+| **Monday** | --- | --- | --- |
+| 8:30-9:20        | | | Registration |
+| 9:20-9:30        | Welcome | | |
+| 9:30-10:30       | Keynote 1 | | |
+| 10:30-11:00        | | | Break |
+| 11:00-12:30        | Parallel 1A | Parallel 1B | |
+| 12:30-13:30        | | | Lunch break |
+| 13:30-15:00        | Parallel 2A | Parallel 2B |
+| 15:00-15:30        | | | Break |
+| 15:30-17:00        | Parallel 3A | Parallel 3B |
+| 17:00-19:00        | | | Poster session 1 |
+| **Tuesday** | --- | --- | --- |
+| 9:00-10:30        | Parallel 4A | Parallel 4B | |
+| 10:30-11:00        | | | Break |
+| 11:00-12:30        | Parallel 5A | Parallel 5B |
+| 12:30-13:30        | | | Lunch break |
+| 13:30-14:30        | Industry session (talks) | | |
+| 14:30-15:30        | Industry panel | | |
+| 15:30-16:00        | | | Break |
+| 16:00-18:00        | | | Poster session 2 |
+| 18:30-22:00        | **Reception / Dinner (Scheltema)** |
+| **Wednesday** | --- | --- | --- |
+| 9:00-10:00         | Keynote 2 | |
+| 10:00-11:00        | Parallel 6A | Parallel 6B |
+| 11:00-11:30        | | |  Break |
+| 11:30-12:30        | Parallel 7A | Parallel 7B |
+| 12:30-13:30        | | | Lunch break |
+| 13:30-15:00        | Parallel 8A | Parallel 8B |
+| 15:00-15:30        | | |  Break |
+| 15:30-17:00        | Parallel 9A | Parallel 9B |
+| 17:00-17:30        | Closing | |
+
 
 
 
@@ -69,6 +91,7 @@ Click on the parallel session to jump to the list of talks.
 <details markdown="1">
 <summary><strong>Click here</strong> to open or close the list of contributed talks.</summary> 
 
+<!--
 Names of presenting authors have been _<u>underlined</u>_.
 
 
@@ -354,7 +377,7 @@ _Session Chair: Michael Vasmer_
 <details markdown="1">
 <summary><strong>Click here</strong> to open or close the list of accepted poster presentations.</summary> 
 
-
+<!--
 
 ### Applications of Quantum Computing & Domain Specific Algorithms
 
