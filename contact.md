@@ -31,20 +31,11 @@ Interested in sponsoring QCTiP 2026? Please contact us for sponsorship packages 
 
 For questions about paper submissions, please contact the Programme Committee Chair.
 
-<richard.kueng@jku.at>
+<TBD>
 
 ### Registration
 
 For registration-related questions, please email us at the general inquiries address above.
-
-# Address
-
-University of Oxford<br>
-Radcliffe Observatory<br>
-Andrew Wiles Building<br>
-Woodstock Rd, OX2 6GG<br>
-Oxford, United Kingdom<br>
-
 
 
 
