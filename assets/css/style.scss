@@ -43,6 +43,7 @@
   --leiden-blue-lighter: #001e99;
   --leiden-blue-dark: #000a33;
   --leiden-blue-accent: #002bdd;
+  --leiden-blue-super-light: #dfe3ee;
   --leiden-orange: #be4500;
 }
 
@@ -52,8 +53,8 @@ body {
 
 /* Header gradient - replace green with Oxford blue */
 .page-header {
-  background: var(--leiden-blue-accent) !important;
-  background-image: var(--leiden-blue-accent) !important;
+  background: var(--leiden-blue-super-light) !important;
+  background-image: var(--leiden-blue-super-light) !important;
   color: white;
   padding: 2rem;
 }
