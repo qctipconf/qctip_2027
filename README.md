@@ -19,7 +19,7 @@ QCTiP 2026 is an international conference bringing together researchers, practit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/qctipconf/qctipconf.github.io.git
+   git clone git@github.com:qctipconf/qctip_2027.git
    cd qctipconf.github.io
    ```
 
