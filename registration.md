@@ -13,12 +13,12 @@ we expect tickets may sell out before registration closes.
 
 ### Key Dates
 
-- **Registration Opening:** 12 December 2025
+- **Registration Opening:** 11 January 2027
 - **Early Bird Registration Deadline:** 27 February 2026
 - **Registration Closing:** 23 March 2026
 - **Accommodations at St Anne's College:** booking closes on Monday 23 February at 9am
 - **Accommodations at Holiday Inn Oxford Pear Tree:** booking closes on 5 March 2026
-- **Conference Dates:** 20-22 April 2026
+- **Conference Dates:** 12-14 April 2027
 
 ### Tickets and Registration
 
