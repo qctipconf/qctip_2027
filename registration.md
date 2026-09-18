@@ -41,10 +41,9 @@ which will take place in the evening of the 21st April (conference dates are 20-
 However, we request participants to sign up only if they know they will be able to attend. 
 
 
-- (sold out) ~~**Early-Bird Student Registration Fee: &#163;200**~~
-- (sold out) ~~**Regular Rate Student Registration Fee: &#163;250**~~
-- (sold out) ~~**Early-Bird Staff Registration Fee: &#163;300**~~
-- (sold out) ~~**General Admission Ticket: &#163;400**~~
+- **Student Registration Fee: &#163;200**
+- **Regular Rate Registration Fee: &#163;250**
+- **General Admission Ticket: &#163;400**
 
 Click on the following link to purchase a ticket  [**[HERE]**](https://www.oxforduniversitystores.co.uk/conferences-and-events/mathematical-institute/events/quantum-computing-theory-in-practice).
 
@@ -69,56 +68,10 @@ Cancellation requests made after the registration deadline may not be granted.
 
 
 
-# Accommodation
-
-## Important notice
-
-The [Skoll World Forum](https://skoll.org/) will take place later in the same week as QCTiP 2026
-in central Oxford. While this does not affect the main QCTiP activities at the Mathematical Institute,
-accommodation is likely to be particularly difficult to secure for the night of Tuesday 21st April and onwards.
-For this reason, we **strongly recommend purchasing a QCTiP ticket as soon as possible and booking accommodation immediately thereafter.**
-
-
-## St Anne's College 
-
-![Oxford Venue](assets/images/St Annes.png){:.center-images}
-
-We have reserved a limited number of rooms at St Anne's College that participants can book via
-[St Anne's College's website](https://www.st-annes.ox.ac.uk/conferences-bb/accommodation/book-conference/) using the below code.
-
-Use this code: **QCTIP44815**
-
-Dates available are 19th April (check in) - 22nd April (check out).
-<span style="color:red;">[**deadline has been extended**]</span> The **booking link will expire on Monday 9th March at 9am** and therefore bookings must be made before this date.
-St Anne's College is located "just opposite the street", 3 mins walk from the conference venue. 
-
-
-## Holiday Inn Oxford Pear Tree
-
-![Oxford Venue](assets/images/HI.png){:.center-images}
-
-We have reserved a limited number of rooms at the Holiday Inn Oxford which participants can book
-by clicking on the link below (or by choosing "Group Rate" and providing the code "GV3").
-
-[**Book a room**](https://www.ihg.com/hotels/gb/en/find-hotels/select-roomrate?qDest=Oxford, United Kingdom&qPt=CASH&qCiD=19&qCoD=23&qCiMy=032026&qCoMy=032026&qAdlt=1&qChld=0&qRms=1&qAAR=6CBARC&qGrpCd=GV3&qSlH=OFDUK&srb_u=1&qSrt=sAV&qBrs=6c.hi.ex.sb.ul.ic.cp.cw.in.vn.cv.rs.ki.kd.ma.sp.va.re.vx.nd.sx.we.lx.rn.sn.nu.ge&qWch=0&qSmP=0&qRad=30&qRdU=mi&setPMCookies=false&qpMbw=0&qErm=false&qpMn=1&qRmFltr=)
-
-Dates available are 19th April (check in) - 23rd April (check out).
-<span style="color:red;">[**deadline has been extended**]</span> Please note that the **minimum stay lenght is 3 days and that the rooms are only held until 12th March 2026**,
-and therefore bookings must be made before this date.
-
-The conference venue is conveniently
-accessible via a 10-min (or 15 min depending on traffic) bus trip from the [Pear Tree Park and Ride](https://maps.app.goo.gl/p32tLLjf7Vrv8pEe9) bus station.
-Participants should take bus number 300 which stops immediately in front
-of the Andrew Wiles Building (name of the bus stop is Radcliffe Observatory Quarter).
-
-
-
-
 ## Recommended Hotels
 
 As the conference approaches, accommodation in the area is very likely to become limited.
-While the above allocations at St Anne's College and the Holiday Inn Oxford Pear Tree
-have booked out, there are a number of hotels within reach of the venue.
+There are a number of hotels within reach of the venue.
 Participants may wish to explore options via the following platforms:
 
 [https://www.booking.com](https://www.booking.com)

@@ -49,11 +49,10 @@ The city is very well connected by rail with major Dutch and international desti
 **Things to Do in leiden**
 
 - Visit the historic city center
-- Walk Rembrandt
-- Naturalis 
-- 
-- 
-- 
+- Naturalis Biodivercity Center
+- Visit Hortus Botanicus
+- Follow the Rembrandt trail
+- Visit Rijksmuseum Boerhaave Museum
 
 **See suggested walking routes below.**
 
@@ -66,25 +65,20 @@ The city is very well connected by rail with major Dutch and international desti
 - Resto 4 – Contemporary European dining
 - Resto 5 – Larger Thai option with a fun atmosphere for groups.
 
-**Jericho Area**
--  – Relaxed French bistro (good for groups)
-- Branca – upscale contemporary buzzy Italian
-- Kibou – Japanese restaurant, be sure to try the signature Volcano roll.
-- Popina by Lynrace - wine, cheese and charcuterie bar inspired by the popinae of Ancient Rome and the history of Oxford's Jericho district
+**Area 1**
+- Resto 1 – Relaxed French bistro (good for groups)
+- Resto 2 – upscale contemporary buzzy Italian
+- Resto 3– Japanese restaurant, be sure to try the signature Volcano roll.
+- Resto 4 - wine, cheese and charcuterie bar inspired by the popinae of Ancient Rome and the history of Oxford's Jericho district
 
-**North Oxford / Woodstock Road Area**
-- Gees Restaurant & Bar – Mediterranean cuisine
-- Parsonage Grill – Modern British dining
-- Scenic / Riverside
-- Cherwell Boathouse – Riverside dining & punting available
-- Ashmolean Rooftop Restaurant – Views across Oxford
+**Area 2**
 
-**Independent**
-- Visit the many outlets within the vibrant independent covered market such as sushi, pizza, wine bars, coffee shops and more.  Gulp bookshop offers a free coffee with every book purchased.
-- Vaults & Garden – Popular café near the Covered Market
 
-**Tim Chan** is an Oxford-based DPhil student and "food enthusiast".
-He kindly prepared [THIS](https://maps.app.goo.gl/Us58V45xaXWUTVYj7?g_st=i)
+
+
+
+**Google maps collection** 
+[THIS](https://maps.app.goo.gl/Us58V45xaXWUTVYj7?g_st=i)
 collection of recommended places where participants can find delicious meals outside of the main conference venue.
 
 
@@ -103,7 +97,7 @@ collection of recommended places where participants can find delicious meals out
 
 
 ### Central Leiden Highlights -- Suggested Walking Route (2–3 Hours)
-**Start: Gloucester Green / Broad Street**
+**Start:**
 The following central attractions are within 10–15 minutes’ walk of each other.
 
 
