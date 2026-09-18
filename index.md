@@ -27,8 +27,7 @@ Quantum Computing Theory in Practice (QCTiP) aims to bring together the academic
 - ~200 poster presentations
 
 
-![Oxford Venue](assets/images/grp.jpg){:.center-image width=100%}
-<!--
+<!--![Oxford Venue](assets/images/grp.jpg){:.center-image width=100%
 TODO: change figures
 -->
 
