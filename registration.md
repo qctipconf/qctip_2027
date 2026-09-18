@@ -5,7 +5,7 @@ title: Registration
 
 ![Oxford Bridge of Sighs](assets/images/cover.png){:.center-image width=100%}
 
-# QCTiP 2026 Registration
+# QCTiP 2027 Registration
 
 Please note that **tickets are sold on a first-come first-served basis**
 and based on the interest in previous QCTiP editions,
@@ -13,11 +13,13 @@ we expect tickets may sell out before registration closes.
 
 ### Key Dates
 
-- **Registration Opening:** 11 January 2027
-- **Early Bird Registration Deadline:** 27 February 2026
-- **Registration Closing:** 23 March 2026
-- **Accommodations at St Anne's College:** booking closes on Monday 23 February at 9am
-- **Accommodations at Holiday Inn Oxford Pear Tree:** booking closes on 5 March 2026
+- **Registration Opening:** January 11, 2027
+- **Talk Submission Opening:** November 30, 2026
+- **Talk Submission Deadline:** December 11, 2026
+- **Poster Submission Deadline:** December 23, 2026
+- **Talk Notification of Acceptance:** February 1, 2027
+- **Poster Notification of Acceptance:** February 12, 2027
+- **Registration Closing:** March 12, 2027
 - **Conference Dates:** 12-14 April 2027
 
 ### Tickets and Registration

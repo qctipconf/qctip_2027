@@ -8,73 +8,66 @@ title: Venue
 # Venue
 
 ### Conference Venue
+<p>QCTiP 2027 will be held in <strong>Leiden, the Netherlands</strong>, 
+  a historic university city renowned for its vibrant academic community, 
+  rich cultural heritage, and strong international research environment. 
+  Leiden is home to Leiden University, founded in 1575, the oldest 
+  university in the Netherlands, where superconductivity was discovered 
+  in 1911 at the Kamerlingh Onnes Laboratory.</p>
 
-QCTiP 2026 will be held at the **University of Oxford**, one of the world's oldest and most prestigious universities,
-located in the historic city of Oxford, United Kingdom. Oxford is home to one of the most significant quantum centres
-within the UK and even globally, with more than 60 groups conducting research in quantum technologies.
+<p>The conference will be held at the <strong>Stadsgehoorzaal Leiden</strong>, 
+  the city's concert hall dating from 1891. It is a prominent venue located in the heart of Leiden. 
+  The venue provides a welcoming and professional setting 
+  for bringing together researchers, academics, industry representatives, 
+  and students from across the quantum computing community.</p>
 
-
-The conference will be held in the the **Andrew Wiles Building** which is home to the **Mathematical Institute** and has been
-named after Sir Andrew Wiles who proved Fermat's Last Theorem.
-
-
-The modern Andrew Wiles Building offers world-class facilities and is located centrally in Oxford, 
-surrounded by a concentration of science departments (Physics, Computer Science, Materials, Engineering, Chemistry)
-that conduct world-leading research in all aspects of quantum technologies. 
-
-![Oxford Venue](assets/images/venue2.png){:.center-images}
+![Oxford Venue](assets/images/venue-1.0.jpeg){:.center-images}
 
 
 
 ### Banquet Dinner
 
-The QCTiP 2026 banquet dinner will be held in the **Oxford Town Hall** which is a beautiful listed building located in the heart of Oxford. 
+Scheltema
 
 ![Oxford Venue](assets/images/venue3.png){: style="width:60%;" .center-image}
 
 
 ### Near the Venue
 
-- (less than 1 min walk) The major development project, the Schwarzman Centre for the Humanities building has just opened and
-participants can enjoy its public spaces and its cafe
-
-- (3 min walk)  The MI is located at the heart of the lively Jericho district of Oxford which has a broad range of
-restaurants, pubs and cafes where participants can explore various breakfast and dinner options
-
-
-- (less than 5 min walk) other science departments
-
-
+- (less than 1 min walk) 
+- (3 min walk)  
+- (less than 5 min walk) 
 
 # Travel Information
 
-### About Oxford
+### About Leiden
 
-Oxford is a beautiful city with over 1,000 years of history, world-class museums, stunning architecture, and a vibrant cultural scene.
-The city is very well connected by rail with major UK and EU cities and easily accessible from 3 major airports. Most University buildings and Colleges are within walking distance.
 
-**Things to Do in Oxford**
+Leiden is a historic university city with over 400 years of academic history, home to Leiden University — the oldest university in the Netherlands — world-class museums, picturesque canals, and a vibrant cultural scene.
+The city is very well connected by rail with major Dutch and international destinations and is easily accessible from Amsterdam Airport Schiphol. Most Leiden University buildings and faculties are within walking or cycling distance of the city centre.
 
-- Visit the historic Oxford colleges
-- Explore the Bodleian Library
-- Tour the Ashmolean Museum
-- Punt on the River Cherwell
-- Walk through the Oxford Botanic Garden
-- Discover the History of Science Museum
+**Things to Do in leiden**
+
+- Visit the historic city center
+- Walk Rembrandt
+- Naturalis 
+- 
+- 
+- 
 
 **See suggested walking routes below.**
 
-### Where to Eat in Oxford
+### Where to Eat in Leiden
 
 **Restaurant Suggestions in the City Centre**
-- The Ivy Oxford Brasserie – British classics in elegant setting
-- Quod Restaurant & Bar – Brasserie dining on the High Street
-- Dishoom Permit Room – Indian small plates & lively atmosphere
-- No.1 Ship Street – Contemporary European dining
-- Thaikhun Thai Restaurant – Larger Thai option with a fun atmosphere for groups.
+- Resto 1 – Dutch pancakes 
+- Resto 2 – Brasserie dining on the High Street
+- Resto 3 – Indian small plates & lively atmosphere
+- Resto 4 – Contemporary European dining
+- Resto 5 – Larger Thai option with a fun atmosphere for groups.
 
 **Jericho Area**
-- Pierre Victoire – Relaxed French bistro (good for groups)
+-  – Relaxed French bistro (good for groups)
 - Branca – upscale contemporary buzzy Italian
 - Kibou – Japanese restaurant, be sure to try the signature Volcano roll.
 - Popina by Lynrace - wine, cheese and charcuterie bar inspired by the popinae of Ancient Rome and the history of Oxford's Jericho district
@@ -96,47 +89,26 @@ collection of recommended places where participants can find delicious meals out
 
 
 
-### Getting to Oxford
+### Getting to Leiden
 
 **By Air:**
-- London Heathrow Airport (approximately 1 hour by coach)
-- London Gatwick Airport (approximately 2 hours)
-- Birmingham Airport (approximately 1 hour by train)
+- Schiphol Airport (approximately 30 min by train)
 
 **By Train:**
-- Direct trains from London Paddington and Marylebone stations (approximately 1 hour)
-- Regular services from Birmingham, Manchester, and other major UK cities
+- Direct trains from Amsterdam central and other major Dutch cities 
 
 **By Car:**
-- Oxford is well-connected by the M40 motorway
 - Parking is very limited in the city centre
 
 
-### Getting Into Oxford City Centre
-**From Holiday Inn & Travelodge (Peartree Roundabout):**
-- Use Pear Tree Park & Ride bus service to Gloucester Green (approx. 10–15 minutes).
-- Buses run frequently throughout the day.
-- Taxis into central Oxford take approx. 10–15 minutes (traffic dependent).
 
-**From Mathematical Institute & St Anne’s College:**
-- 15–20 minute walk down Woodstock Road into the city centre.
-- Regular buses run along Woodstock Road (5–10 minutes into town).
-
-
-### Central Oxford Highlights -- Suggested Walking Route (2–3 Hours)
+### Central Leiden Highlights -- Suggested Walking Route (2–3 Hours)
 **Start: Gloucester Green / Broad Street**
 The following central attractions are within 10–15 minutes’ walk of each other.
-- Broad Street – Sheldonian Theatre & Bodleian Library
-- Radcliffe Camera & Radcliffe Square
-- High Street & Queen Street (shops & cafés)
-- Christ Church Meadow (riverside green space)
-- Oxford Botanic Garden (near Magdalen Bridge)
-- Optional: University Parks (pleasant scenic walk)
 
 
 
-
-### Finding Accommodation in Oxford
+### Finding Accommodation in Leiden
 
 Please refer to [Registration](/registration) for information about recommended hotels and accommodation options.
 

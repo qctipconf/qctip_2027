@@ -6,7 +6,7 @@ title: Call for Submissions
 ![Oxford Bridge of Sighs](assets/images/cover.png){:.center-image width=100%}
 
 
-# QCTiP 2026 Call for Submissions
+# QCTiP 2027 Call for Submissions
 
 Talks will be selected based on their scientific excellence,
 fit to the workshop theme, and overall programme balance.
@@ -69,13 +69,14 @@ is sufficient for poster submissions.
 
 # Key Dates
 
-- **Talk Submission Opening:** 5 January 2026
-- **Talk Submission Deadline:** 11 January 2026
-- **Poster Submission Deadline:** 25 January 2026
-- **Talk Notification of Acceptance:** 20 February 2026
-- **Poster Notification of Acceptance:** 25 February 2026
-- **Conference Dates:** 20-22 April 2026
-
+- **Registration Opening:** January 11, 2027
+- **Talk Submission Opening:** November 30, 2026
+- **Talk Submission Deadline:** December 11, 2026
+- **Poster Submission Deadline:** December 23, 2026
+- **Talk Notification of Acceptance:** February 1, 2027
+- **Poster Notification of Acceptance:** February 12, 2027
+- **Registration Closing:** March 12, 2027
+- **Conference Dates:** 12-14 April 2027
 
 # Programme Committee
 
