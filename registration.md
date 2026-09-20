@@ -50,12 +50,11 @@ please fill in the following online form -- you will be asked for a justificatio
 only those with strong and specific reasons for needing support may receive it.
 
 Click on the following link to submit a case for support [**[HERE]**](https://docs.google.com/forms/d/e/1FAIpQLSdA4kkWgN3l90UYa5j2ouI_JzILt1Wwk-II30fmdWh3WVLCIw/viewform?usp=dialog).
-<!-- TODO update google form to apply for travel support -->
+
 
 ### Cancellation Policy
 
 Participants should contact the organisers at <qctip2026@cs.ox.ac.uk>
-<!-->TODO email update in the line above-->
 to request cancellation of their registration.
 Cancellations made before the registration deadline may be subject to a cancellation fee.
 Cancellation requests made after the registration deadline may not be granted.
@@ -86,7 +85,6 @@ Participants will be asked during the registration stage whether they need help
 with their visa applications. Please tick "yes" and please note that participants then
 still need to get in touch with us at <qctip2026@cs.ox.ac.uk> in case they need an invitation letter.
 
-<!-->TODO email update in the line above-->
 
 **When requesting a visa invitation letter, please include the following in your email**.
 - Name
