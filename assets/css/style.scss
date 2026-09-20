@@ -46,17 +46,18 @@
   --leiden-blue-super-light: #dfe3ee;
   --leiden-orange: #be4500;
   --leiden-orange-light: #F9EDE6;
+  --orange-line:rgba(190, 69, 0, 0.5);
 }
 
 body {
   font-family: "Merriweather", "Times New Roman", Times, serif;
 }
 
-/* Header gradient - replace green with Oxford blue */
+/* Header gradient */
 .page-header {
   background: var(--leiden-blue-super-light) !important;
-  background-image: var(--leiden-blue-super-light) !important;
-  color: white;
+  background-image: var(--leiden-orange) !important;
+  color: var(--leiden-orange) !important;
   padding: 2rem;
 }
 
@@ -178,7 +179,7 @@ nav a:focus {
 /* Header text styling for better contrast */
 .page-header h1,
 .page-header h2 {
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  text-shadow: 2px 2px 4px white;
   margin-bottom: 0.5rem;
 }
 
@@ -201,7 +202,7 @@ nav a:focus {
 .main-content h5,
 .main-content h6 {
   color: var(--leiden-blue);
-  border-bottom: 2px solid rgba(0, 33, 71, 0.1);
+  border-bottom: 2px solid var(--orange-line);
   padding-bottom: 0.5rem;
   margin-top: 2rem;
   margin-bottom: 1rem;
@@ -231,7 +232,7 @@ nav a:focus {
 
 /* Footer styling */
 .site-footer {
-  border-top: 2px solid rgba(0, 33, 71, 0.1);
+  border-top: 2px solid var(--orange-line);
   margin-top: 3rem;
   padding-top: 2rem;
   color: #666;

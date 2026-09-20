@@ -3,7 +3,7 @@ layout: default
 title: Venue
 ---
 
-![Oxford Bridge of Sighs](assets/images/cover.png){:.center-image}
+![Leiden Hooglandse Kerk](assets/images/cover.png){:.center-image}
 
 # Venue
 
@@ -12,24 +12,24 @@ title: Venue
   a historic university city renowned for its vibrant academic community, 
   rich cultural heritage, and strong international research environment. 
   Leiden is home to Leiden University, founded in 1575, the oldest 
-  university in the Netherlands, where superconductivity was discovered 
-  in 1911 at the Kamerlingh Onnes Laboratory.</p>
+  university in the Netherlands. </p>
 
 <p>The conference will be held at the <strong>Stadsgehoorzaal Leiden</strong>, 
-  the city's concert hall dating from 1891. It is a prominent venue located in the heart of Leiden. 
+  the city's concert hall dating from 1891. It is a prominent venue 
+  located in the heart of Leiden. 
   The venue provides a welcoming and professional setting 
   for bringing together researchers, academics, industry representatives, 
   and students from across the quantum computing community.</p>
 
-![Oxford Venue](assets/images/venue-1.0.jpeg){:.center-images}
+![Leiden Venue](assets/images/venue-1.0.jpeg){:.center-images}
 
 
 
 ### Banquet Dinner
 
-Scheltema
+Banquet dinner will take place at Scheltema, a historic place, an old blanket factory turned into a dining venue. 
 
-![Oxford Venue](assets/images/venue3.png){: style="width:60%;" .center-image}
+![Leiden Venue](assets/images/venue-2.0.jpeg){: style="width:100%;" .center-image}
 
 
 ### Near the Venue
@@ -48,10 +48,10 @@ The city is very well connected by rail with major Dutch and international desti
 
 **Things to Do in leiden**
 
-- Visit the historic city center
-- Naturalis Biodivercity Center
-- Visit Hortus Botanicus
+- Visit Burcht van Leiden
 - Follow the Rembrandt trail
+- Visit Hortus Botanicus (Botanical Garden)
+- Visit Oude Sterrewacht (Old Observatory Leiden)
 - Visit Rijksmuseum Boerhaave Museum
 
 **See suggested walking routes below.**
@@ -59,26 +59,17 @@ The city is very well connected by rail with major Dutch and international desti
 ### Where to Eat in Leiden
 
 **Restaurant Suggestions in the City Centre**
-- Resto 1 – Dutch pancakes 
+- 't Pannenkoekenhuysje Oudt Leyden – Dutch pancakes 
 - Resto 2 – Brasserie dining on the High Street
 - Resto 3 – Indian small plates & lively atmosphere
 - Resto 4 – Contemporary European dining
 - Resto 5 – Larger Thai option with a fun atmosphere for groups.
 
-**Area 1**
-- Resto 1 – Relaxed French bistro (good for groups)
-- Resto 2 – upscale contemporary buzzy Italian
-- Resto 3– Japanese restaurant, be sure to try the signature Volcano roll.
-- Resto 4 - wine, cheese and charcuterie bar inspired by the popinae of Ancient Rome and the history of Oxford's Jericho district
-
-**Area 2**
-
-
 
 
 
 **Google maps collection** 
-[THIS](https://maps.app.goo.gl/Us58V45xaXWUTVYj7?g_st=i)
+[THIS](TODO-update-the-link)
 collection of recommended places where participants can find delicious meals outside of the main conference venue.
 
 
@@ -89,14 +80,15 @@ collection of recommended places where participants can find delicious meals out
 - Schiphol Airport (approximately 30 min by train)
 
 **By Train:**
-- Direct trains from Amsterdam central and other major Dutch cities 
+- Direct trains from Amsterdam central and other major Dutch cities
+- Use [NS app](https://www.ns.nl/en/travel/ns-app) for up-to-date travel information
 
 **By Car:**
 - Parking is very limited in the city centre
 
 
 
-### Central Leiden Highlights -- Suggested Walking Route (2–3 Hours)
+### Central Leiden Highlights 
 **Start:**
 The following central attractions are within 10–15 minutes’ walk of each other.
 
@@ -105,12 +97,6 @@ The following central attractions are within 10–15 minutes’ walk of each oth
 ### Finding Accommodation in Leiden
 
 Please refer to [Registration](/registration) for information about recommended hotels and accommodation options.
-
-**Important notice:** A major event, the [Skoll World Forum](https://skoll.org/) will take place later the same week as QCTiP 2026 in central Oxford.
-While Skoll does not directly affect the main QCTiP event in the Mathematical Institute, accommodation will be more difficult to find
-for the night of Tuesday the 21st April and after. For this reason we **strongly recommend that participants purchase a ticket for QCTiP as soon as possible
-and then book accommodation immediately after purchasing a ticket**. 
-
 
 
 

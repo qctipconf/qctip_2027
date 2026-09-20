@@ -3,7 +3,7 @@ layout: default
 title: QCTiP 2027 Leiden
 ---
 
-![Oxford Bridge of Sighs](assets/images/qctip2027.png){:.center-image width=100%}
+![Leiden Hooglandse Kerk](assets/images/cover.png){:.center-image width=100%}
 <!--
 TODO: change figures
 -->
@@ -44,12 +44,10 @@ TODO: change figures
 
 **[Sign Up](https://forms.gle/61MBgfK3JLB5iFWu8) to our mailing list to receive notifications of important events,
 such as when registration opens.**
-<!--
-TODO: prepare a mailing list
--->
 
 
-![Oxford Venue](assets/images/venue1.png){:.center-image width=100%}
+
+![Leiden Venue](assets/images/venue-city.jpeg){:.center-image width=100%}
 <!--
 TODO: change figures
 -->
@@ -92,7 +90,6 @@ TODO: provide details for reporting CoC violations and getting local support. (s
 
 ## Confirmed Sponsors
 
-![Acknowledgments](assets/images/sponsors.png){:.center-image width=100%}
-<!--
+<!--![Acknowledgments](assets/images/sponsors.png){:.center-image width=100%}
 TODO: change sponsor figure
 -->

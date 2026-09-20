@@ -20,12 +20,14 @@ For general inquiries about QCTiP 2027, and inquiries about
 conference organisation please contact us using the below email address.
 
 <qctip2026@cs.ox.ac.uk>
+<!-- TODO email update in the line above-->
 
 ### Sponsorship Opportunities
 
 Interested in sponsoring QCTiP 2027? Please contact us for sponsorship packages and benefits.
 
 <qctip2026@cs.ox.ac.uk>
+<!-- TODO email update in the line above-->
 
 ### Paper Submissions
 
