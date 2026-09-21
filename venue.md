@@ -27,16 +27,12 @@ title: Venue
 
 ### Banquet Dinner
 
-Banquet dinner will take place at Scheltema, a historic place, an old blanket factory turned into a dining venue. 
+Banquet dinner will take place in a historic venue in the city center of Leiden. 
 
-![Leiden Venue](assets/images/venue-2.0.jpeg){: style="width:100%;" .center-image}
+<!--![Leiden Venue](assets/images/venue-2.0.jpeg){: style="width:100%;" .center-image}-->
 
 
 ### Near the Venue
-
-- (less than 1 min walk) 
-- (3 min walk)  
-- (less than 5 min walk) 
 
 # Travel Information
 
@@ -66,11 +62,6 @@ The city is very well connected by rail with major Dutch and international desti
 - Resto 5 – Larger Thai option with a fun atmosphere for groups.
 
 
-
-
-**Google maps collection** 
-[THIS](TODO-update-the-link)
-collection of recommended places where participants can find delicious meals outside of the main conference venue.
 
 
 

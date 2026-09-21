@@ -3,7 +3,7 @@ layout: default
 title: Call for Submissions
 ---
 
-![Oxford Bridge of Sighs](assets/images/cover.png){:.center-image width=100%}
+![Leiden Hooglandse Kerk](assets/images/cover.png){:.center-image width=100%}
 
 
 # QCTiP 2027 Call for Submissions
@@ -26,7 +26,7 @@ Topics of interest include, but are not limited to:
 - Error mitigation and benchmarking
 
 
-**All submissions must be made online via the link** [**[HERE]**](https://qctip2026.hotcrp.com/).
+<!--**All submissions must be made online via the link** [**[HERE]**](TODO-link-for-submission).-->
 
 
 
@@ -82,93 +82,11 @@ is sufficient for poster submissions.
 
 ### Programme Committee Chair
 
-<img src="assets/images/Richard_Kueng.jpg"
-     alt="Oxford Venue"
+<!--<img src="assets/images/image.jpg"
+     alt="Leiden Venue"
      width="20%"
-     style="display:block; margin:auto;">
+     style="display:block; margin:auto;">-->
 	 
-**Richard Kueng** (Johannes Kepler University Linz, Austria)
-
-Richard Kueng pursues an interdisciplinary research agenda at the interface between
-computer science (algorithms & computational complexity), physics
-(quantum information & quantum technologies) and applied math (convex geometry & high
-dimensional probability theory). Broadly speaking, he aspires to develop efficient and
-simple solutions for important algorithmic challenges that also come with rigorous performance
-guarantees. Together with Hsin-Yuan Huang and John Preskill (both at Caltech), Richard Kueng
-developed the classical shadow formalism -- an efficient quantum-to-classical
-conversion procedure that has made a lasting impact on quantum computing technologies.
-He is currently a full professor at JKU Linz and head of the department for quantum computing.
-He is also a member of the board of directors in the Austrian excellence cluster quantA
-and an elected member of the young Austrian academy of Sciences. In 2023, Richard Kueng
-received both a Starting Grant from the European Research Council (ERC), as well as the
-Austrian pendant called FWF START. 
 
 
 ### Programme Committee Members
-
-
-- **Antonio Anna Mele** (FU Berlin)
-- **Francesco Anna Mele** (Scuola Normale Superiore di Pisa)
-- **Leandro Aolita** (Technology Innovation Institute Abu Dhabi)
-- **Janos Asboth** (Budapest University of Technology)
-- **Lucas Berent** (Iceberg Quantum)
-- **Vjosa Blakaj** (University of Copenhagen)
-- **Paolo Braccia** (Los Alamos National Lab)
-- **Michael Bremner** (UTS Sydney)
-- **Dan Browne** (University College London)
-- **Daniel Cavalcanti** (Algorithmiq)
-- **Ieva Cepaite** (Phasecraft)
-- **Jonathan Conrad** (EPFL Lausanne)
-- **Arjan Cornelissen** (Simons Institute)
-- **Abhinav Deshpande** (IBM Reserarch)
-- **Andrew Doherty** (University of Sydney)
-- **Arkopal Dutt** (IBM Quantum)
-- **Andreas Elben** (Paul Scherrer Institute)
-- **Francisco Escudero Guiterrez** (CWI Amsterdam)
-- **Paul Faehrmann** (FU Berlin)
-- **Philippe Faist** (FU Berlin)
-- **Marco Fanizza** (Inria)
-- **Diego Garcia Martin** (Los Alamos National Lab)
-- **Linnea Grans-Samuelsson** (University of Oxford)
-- **Sander Gribling** (Tilburg University)
-- **Dmitry Grinko** (QuSoft Amsterdam)
-- **Shouzhen Gu** (Yale)
-- **Jonas Haferkamp** (Saarland University)
-- **Robin Harper** (University of Sydney)
-- **Tobias Haug** (Technology Innovation Institute Abu Dhabi)
-- **Jonas Helsen** (CWI Amsterdam)
-- **Nicholas Hunter-Jones** (UT Austin)
-- **Sofiene Jerbi** (FU Berlin) 
-- **Yifan Jia** (University of Copenhagen)
-- **Michael Kastoryano** (AWS and University of Copenhagen)
-- **Robbie King** (Google Quantum AI and Caltech)
-- **Johannes Knoerzer** (ETH Zuerich)
-- **Aleks Kubica** (Yale)
-- **Anthony Leverrier** (INRIA)
-- **Yunchao Liu** (IBM Research)
-- **Peter Love** (Tufts University)
-- **Angelo Lucia** (Politecnico di Milano)
-- **Sam McArdle** (AWS)
-- **Alex Meiburg** (Perimeter Institute)
-- **Alex Nietner** (FU Berlin)
-- **Harold Ollivier** (Inria)
-- **Michal Oszmaniec** (CTP PAS Warsaw)
-- **Aadil Oufkir** (RWTH Aachen)
-- **Adrian Perez-Salinas** (ETH Zuerich)
-- **Lirand&euml; Pira** (National University of Singapore)
-- **Alejandro Posas-Kerstjens** (Universite de Geneve)
-- **Sergi Ramos Calderer** (National University of Singapore)
-- **Joschka Roffe** (University of Edinburgh)
-- **Gregory Rosenthal** (University of Toronto)
-- **Mark Steudtner** (PsiQuantum)
-- **Daniel Stilck-Franca** (University of Copenhagen)
-- **David Sutter** (IBM Quantum)
-- **Jordi Tura** (Leiden University)
-- **Albert Werner** (University of Copenhagen)
-- **Mischa Woods** (Inria)
-- **James Wootton** (MothQuantum)
-- **Leonardo Zambrano** (ICFO)
-- **Zoltan Zimboras** (Algorithmiq and University of Helsinki)
-- **Sebastian Zur** (IRIF, CNRS)
-
-

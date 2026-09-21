@@ -3,7 +3,7 @@ layout: default
 title: Registration
 ---
 
-![Oxford Bridge of Sighs](assets/images/cover.png){:.center-image width=100%}
+![Leiden Hooglandse Kerk](assets/images/cover.png){:.center-image width=100%}
 
 # QCTiP 2027 Registration
 
@@ -37,10 +37,10 @@ However, we request participants to sign up only if they know they will be able 
 
 - **Student Registration Fee:**
 - **Regular Rate Registration Fee:**
-- **General Admission Ticket:**
+- **General Admission Fee:**
 
-Click on the following link to purchase a ticket  [**[HERE]**](update-the-link).
-<!-- TODO update the link to purchuse tickets -->
+<!--Click on the following link to purchase a ticket  [**[HERE]**](update-the-link).
+ TODO update the link to purchuse tickets 
 
 ### Travel and Financial Support
 
@@ -94,5 +94,5 @@ still need to get in touch with us at <qctip2026@cs.ox.ac.uk> in case they need 
 - City and country of institution
 - Passport number
 - Date of birth
-
+-->
 

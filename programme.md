@@ -3,7 +3,7 @@ layout: default
 title: Programme
 ---
 
-![Oxford Bridge of Sighs](assets/images/cover.png){:.center-image width=100%}
+![Leiden Hooglandse Kerk](assets/images/cover.png){:.center-image width=100%}
 
 # Keynote Talks
 <!-- TODO
@@ -46,7 +46,7 @@ Alternatively, a PDF of the schedule can be downloaded by clicking [here](./Sche
 The book of abstracts can be downloaded by clicking [here](./QCTiP2026_Book_of_Abstracts_002.pdf).
 -->
 
-# Timetable
+# Timetable-v1
 Click on the parallel session to jump to the list of talks.
 
 |               |             Groote zaal            |              Aalmaarktzaal             |              Elsewhere             |
@@ -83,6 +83,45 @@ Click on the parallel session to jump to the list of talks.
 | 15:30-17:00        | Parallel 9A | Parallel 9B |
 | 17:00-17:30        | Closing | |
 
+
+
+
+# Timetable-v2
+Click on the parallel session to jump to the list of talks.
+
+|               |             Groote zaal            |              Aalmaarktzaal             |              Elsewhere             |
+|:-------------:|:-----------------------------------------:|:------------------------------------------:|
+| **Monday** | --- | --- | --- |
+| 8:30-9:20        | | | Registration |
+| 9:20-9:30        | Welcome | | |
+| 9:30-10:30       | Keynote 1 | | |
+| 10:30-11:00        | | | Break |
+| 11:00-12:30        | Parallel 1A | Parallel 1B | |
+| 12:30-13:30        | | | Lunch break |
+| 13:30-15:00        | Parallel 2A | Parallel 2B |
+| 15:00-15:30        | | | Break |
+| 15:30-17:00        | Parallel 3A | Parallel 3B |
+| 17:00-19:00        | | | Poster session 1 |
+| **Tuesday** | --- | --- | --- |
+| 9:00-10:30        | Parallel 4A | Parallel 4B | |
+| 10:30-11:00        | | | Break |
+| 11:00-12:30        | Parallel 5A | Parallel 5B |
+| 12:30-13:30        | | | Lunch break |
+| 13:30-14:30        | Industry session (talks) | | |
+| 14:30-15:30        | Industry panel | | |
+| 15:30-16:00        | | | Break |
+| 16:00-18:00        | | | Poster session 2 |
+| 18:30-22:00        | **Reception / Dinner (Scheltema)** |
+| **Wednesday** | --- | --- | --- |
+| 9:00-10:00         | Keynote 2 | |
+| 10:00-11:00        | Parallel 6A | Parallel 6B |
+| 11:00-11:30        | | |  Break |
+| 11:30-12:30        | Parallel 7A | Parallel 7B |
+| 12:30-13:30        | | | Lunch break |
+| 13:30-15:00        | Parallel 8A | Parallel 8B |
+| 15:00-15:30        | | |  Break |
+| 15:30-17:00        | Parallel 9A | Parallel 9B |
+| 17:00-17:30        | Closing | |
 
 
 
