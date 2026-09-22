@@ -32,7 +32,6 @@ Banquet dinner will take place in a historic venue in the city center of Leiden.
 <!--![Leiden Venue](assets/images/venue-2.0.jpeg){: style="width:100%;" .center-image}-->
 
 
-### Near the Venue
 
 # Travel Information
 
@@ -50,8 +49,7 @@ The city is very well connected by rail with major Dutch and international desti
 - Visit Oude Sterrewacht (Old Observatory Leiden)
 - Visit Rijksmuseum Boerhaave Museum
 
-**See suggested walking routes below.**
-
+<!--
 ### Where to Eat in Leiden
 
 **Restaurant Suggestions in the City Centre**
@@ -59,7 +57,7 @@ The city is very well connected by rail with major Dutch and international desti
 - Resto 2 – Brasserie dining on the High Street
 - Resto 3 – Indian small plates & lively atmosphere
 - Resto 4 – Contemporary European dining
-- Resto 5 – Larger Thai option with a fun atmosphere for groups.
+- Resto 5 – Larger Thai option with a fun atmosphere for groups.-->
 
 
 
@@ -78,11 +76,11 @@ The city is very well connected by rail with major Dutch and international desti
 - Parking is very limited in the city centre
 
 
-
+<!--
 ### Central Leiden Highlights 
 **Start:**
 The following central attractions are within 10–15 minutes’ walk of each other.
-
+-->
 
 
 ### Finding Accommodation in Leiden
