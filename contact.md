@@ -25,9 +25,12 @@ TODO email update in the line above-->
 
 ### Sponsorship Opportunities
 
-Interested in sponsoring QCTiP 2027? Please contact us for sponsorship packages and benefits.
+Interested in sponsoring QCTiP 2027? Please contact us using the email <sponsor@qctip.com> for sponsorship packages and benefits.
 
-<!--TODO email update-->
+
+## Sponsors
+
+![Acknowledgments](assets/images/sponsors-logos.png){:.center-image width=100%}
 
 <!--
 ### Paper Submissions

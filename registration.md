@@ -7,9 +7,14 @@ title: Registration
 
 # QCTiP 2027 Registration
 
+
+The registration will open soon. Stay tuned for the updates!
+
+<!--
 Please note that **tickets are sold on a first-come first-served basis**
 and based on the interest in previous QCTiP editions,
 we expect tickets may sell out before registration closes.
+
 
 ### Key Dates
 
@@ -21,7 +26,9 @@ we expect tickets may sell out before registration closes.
 - **Poster Notification of Acceptance:** February 12, 2027
 - **Registration Closing:** March 12, 2027
 - **Conference Dates:** 12-14 April 2027
+-->
 
+<!--
 ### Tickets and Registration
 
 The number of student tickets
@@ -38,6 +45,7 @@ However, we request participants to sign up only if they know they will be able 
 - **Student Registration Fee:**
 - **Regular Rate Registration Fee:**
 - **General Admission Fee:**
+-->
 
 <!--Click on the following link to purchase a ticket  [**[HERE]**](update-the-link).
  TODO update the link to purchuse tickets 

@@ -5,8 +5,14 @@ title: Programme
 
 ![Leiden Hooglandse Kerk](assets/images/cover.png){:.center-image width=100%}
 
+# Outline
+
+The QCTiP conference program will bring together leading researchers and young scientists to share the latest developments and perspectives in the field of quantum computing. The program will feature keynote talks by invited speakers, alongside the contributed talks presenting recent research results. Dedicated poster sessions will provide an opportunity for informal discussions, exchange of ideas, and in-depth conversations with participants presenting their work.
+
+
+<!--
 # Keynote Talks
-<!-- TODO
+ TODO
 ### **Robin Kothari** (Google Quantum AI)
 Title: **Multi-qubit Toffoli with exponentially fewer T gates**<br />
 Time: Monday 20th April, 09:40–10:40<br />
@@ -44,45 +50,6 @@ Alternatively, a PDF of the schedule can be downloaded by clicking [here](./Sche
 # Book of Abstracts
 
 The book of abstracts can be downloaded by clicking [here](./QCTiP2026_Book_of_Abstracts_002.pdf).
-
-
-# Timetable-v1
-Click on the parallel session to jump to the list of talks.
-
-|               |             Groote zaal            |              Aalmaarktzaal             |              Elsewhere             |
-|:-------------:|:-----------------------------------------:|:------------------------------------------:|
-| **Monday** | --- | --- | --- |
-| 8:30-9:20        | | | Registration |
-| 9:20-9:30        | Welcome | | |
-| 9:30-10:30       | Keynote 1 | | |
-| 10:30-11:00        | | | Break |
-| 11:00-12:30        | Parallel 1A | Parallel 1B | |
-| 12:30-13:30        | | | Lunch break |
-| 13:30-15:00        | Parallel 2A | Parallel 2B |
-| 15:00-15:30        | | | Break |
-| 15:30-17:00        | Parallel 3A | Parallel 3B |
-| 17:00-19:00        | | | Poster session 1 |
-| **Tuesday** | --- | --- | --- |
-| 9:00-10:30        | Parallel 4A | Parallel 4B | |
-| 10:30-11:00        | | | Break |
-| 11:00-12:30        | Parallel 5A | Parallel 5B |
-| 12:30-13:30        | | | Lunch break |
-| 13:30-14:30        | Industry session (talks) | | |
-| 14:30-15:30        | Industry panel | | |
-| 15:30-16:00        | | | Break |
-| 16:00-18:00        | | | Poster session 2 |
-| 18:30-22:00        | **Reception / Dinner (Scheltema)** |
-| **Wednesday** | --- | --- | --- |
-| 9:00-10:00         | Keynote 2 | |
-| 10:00-11:00        | Parallel 6A | Parallel 6B |
-| 11:00-11:30        | | |  Break |
-| 11:30-12:30        | Parallel 7A | Parallel 7B |
-| 12:30-13:30        | | | Lunch break |
-| 13:30-15:00        | Parallel 8A | Parallel 8B |
-| 15:00-15:30        | | |  Break |
-| 15:30-17:00        | Parallel 9A | Parallel 9B |
-| 17:00-17:30        | Closing | |
--->
 
 
 
@@ -130,7 +97,7 @@ Click on the parallel session to jump to the list of talks.
 <details markdown="1">
 <summary><strong>Click here</strong> to open or close the list of contributed talks.</summary> 
 
-<!--
+
 Names of presenting authors have been _<u>underlined</u>_.
 
 
@@ -407,7 +374,7 @@ _Session Chair: Michael Vasmer_
 	- **(#553) Quantum algorithms through graph composition** --- Arjan Cornelissen
 	- **(#573) The FLuid Allocation of Surface code Qubits (FLASQ) cost model for early fault-tolerant quantum algorithms.** --- William J. Huggins, Tanuj Khattar, Amanda Xu, Matthew Harrigan, Christopher Kang, Guang Hao Low, Austin Fowler, Nicholas C. Rubin, Ryan Babbush
 	- **(#655) Optimal randomized measurements for a family of non-linear quantum properties** --- Zhenyu Du, Yifan Tang, Andreas Elben, Ingo Roth, Jens Eisert, Zhenhuan Liu
---->
+
 
 
 # Confirmed Poster Presentations
@@ -415,7 +382,7 @@ _Session Chair: Michael Vasmer_
 
 <details markdown="1">
 <summary><strong>Click here</strong> to open or close the list of accepted poster presentations.</summary> 
-
+--->
 <!--
 
 ### Applications of Quantum Computing & Domain Specific Algorithms
@@ -863,7 +830,7 @@ The below list is not final and subject to confirmation by presenting authors.
 -   **(116) Fast Lie-Algebraic Simulation of Structured Quantum Circuits: Implementation and Applications** --- Adelina Bärligea, Jakob S. Kottmann
 -   **(117) RASCqL: Reaction-limited Architecture for SIMD Complex qLDPC Logic** --- Willers Yang, Jason Chadwick, Mariesa Teo, Joshua Viszlai, Fred Chong
 -   **(118) Quantum Algorithm for Filtering Eigenvectors** --- Aashna Zade, Srinivasa Prasannaa, Ermal Rrapaj, Kenneth McElvain, Akshaya Jayashankar
---->
+
 
 
 </details>
@@ -872,3 +839,4 @@ The below list is not final and subject to confirmation by presenting authors.
 Many thanks to Viet Tran (Johannes Kepler University Linz, Austria),
 Po-Wei Huang and Abhishek Rajput (University of Oxford) for their help in managing
 submissions and scheduling the scientific programme.
+--->

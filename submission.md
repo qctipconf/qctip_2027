@@ -13,7 +13,9 @@ fit to the workshop theme, and overall programme balance.
 Submissions are expected that report on recent advances in
 quantum information and computation.
 
+Submissions will open soon. 
 
+<!--
 Topics of interest include, but are not limited to:
 - Applications of quantum computers
 - Architectures for quantum computing
@@ -26,7 +28,7 @@ Topics of interest include, but are not limited to:
 - Error mitigation and benchmarking
 
 
-<!--**All submissions must be made online via the link** [**[HERE]**](TODO-link-for-submission).-->
+**All submissions must be made online via the link** [**[HERE]**](TODO-link-for-submission).
 
 
 
@@ -85,8 +87,10 @@ is sufficient for poster submissions.
 <!--<img src="assets/images/image.jpg"
      alt="Leiden Venue"
      width="20%"
-     style="display:block; margin:auto;">-->
+     style="display:block; margin:auto;">
 	 
 
 
 ### Programme Committee Members
+
+-->

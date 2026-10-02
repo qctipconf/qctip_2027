@@ -29,7 +29,7 @@ Quantum Computing Theory in Practice (QCTiP) aims to bring together the academic
 
 <!--![Oxford Venue](assets/images/grp.jpg){:.center-image width=100%
 TODO: change figures
--->
+
 
 ## Key Dates
 
@@ -41,7 +41,7 @@ TODO: change figures
 - **Poster Notification of Acceptance:** February 12, 2027
 - **Registration Closing:** March 12, 2027
 - **Conference Dates:** 12-14 April 2027
-
+-->
 **[Sign Up](https://forms.gle/61MBgfK3JLB5iFWu8) to our mailing list to receive notifications of important events,
 such as when registration opens.**
 
@@ -73,9 +73,10 @@ TODO: fill in once chosen
 - **B&aacute;lint Koczor** (Mathematical Institute, University of Oxford)
 - **Ophelia Crawford** (Riverlane)
 - **Elham Kashefi** (CNRS & Uni Edinburgh)
+- **Zoë Holmes** (EPFL)
 - **Jens Eisert** (FU Berlin)
 - **Noah Linden** (Uni Bristol)
-- **Ashley Montanaro** (Uni Bristol & Phasecraft)
+- **Jordi Tura** (Leiden University)
 <!--
 TODO: verify this is still current
 -->
@@ -88,8 +89,6 @@ QCTiP2027 is committed to ensuring a harassment-free environment for all attende
 TODO: provide details for reporting CoC violations and getting local support. (see QCTiP 2025 website for example)
 -->
 
-## Confirmed Sponsors
+## Sponsors
 
-<!--![Acknowledgments](assets/images/sponsors.png){:.center-image width=100%}
-TODO: change sponsor figure
--->
+![Acknowledgments](assets/images/sponsors-logos.png){:.center-image width=100%}
