@@ -20,12 +20,12 @@ such as when registration opens.
 For general inquiries about QCTiP 2027, and inquiries about
 conference organisation please contact us using the below email address.
 
-<info@qctip.com >
+<info@qctip.com>
 
 
 ### Sponsorship Opportunities
 
-Interested in sponsoring QCTiP 2027? Please contact us using the email <sponsor@qctip.com > for sponsorship packages and benefits.
+Interested in sponsoring QCTiP 2027? Please contact us using the email <sponsor@qctip.com> for sponsorship packages and benefits.
 
 
 
