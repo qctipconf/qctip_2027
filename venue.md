@@ -44,14 +44,14 @@ The city is very well connected by rail with major Dutch and international desti
 
 **Things to Do in Leiden**
 
-- Follow the Leiden Wall Formulas
+
 - Visit Burcht van Leiden
 - Visit Oude Sterrewacht (Old Observatory Leiden)
 - Visit Hortus Botanicus (Botanical Garden)
 - Visit Rijksmuseum Boerhaave Museum
-- Follow the Rembrandt trail
+- Follow the Leiden Wall Formulas <https://muurformules.nl/?ln=en>
 
-
+<!--
 ### Where to Eat in Leiden
 
 **Restaurant Suggestions in the City Centre**
@@ -60,7 +60,7 @@ The city is very well connected by rail with major Dutch and international desti
 - Resto 3 – Indian small plates & lively atmosphere
 - Resto 4 – Contemporary European dining
 - Resto 5 – Larger Thai option with a fun atmosphere for groups.
-
+-->
 
 
 
