@@ -49,7 +49,7 @@ The city is very well connected by rail with major Dutch and international desti
 - Visit Oude Sterrewacht (Old Observatory Leiden)
 - Visit Hortus Botanicus (Botanical Garden)
 - Visit Rijksmuseum Boerhaave Museum
-- Follow the Leiden Wall Formulas <https://muurformules.nl/?ln=en>
+- [Follow the Leiden Wall Formulas](https://muurformules.nl/?ln=en)
 
 <!--
 ### Where to Eat in Leiden
