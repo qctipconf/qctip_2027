@@ -51,7 +51,7 @@ The city is very well connected by rail with major Dutch and international desti
 - [Rijksmuseum Boerhaave](https://www.rijksmuseumboerhaave.nl/en) {% include map-pin.html q="Rijksmuseum Boerhaave Leiden" %} – National museum of the history of science and medicine, including the apparatus Kamerlingh Onnes used to first liquefy helium
 - [Follow the Leiden Wall Formulas](https://muurformules.nl/?ln=en)
 
-### Tulip Season
+### Tulip Season in the Leiden region
 
 
 The conference takes place in the middle of the tulip season, which runs from mid-March to mid-May. The bulb fields between Leiden and Haarlem are a short ride from the city and are best explored by bike: rent one in Leiden and follow one of the [flower field cycling routes](https://www.leideninternationalcentre.nl/get-advice/blogs/flower-fields-around-leiden) (28–57 km). Along the way you can stop at [Keukenhof](https://keukenhof.nl/en/) in Lisse, one of the world's most famous flower gardens, open from 18 March to 9 May 2027 and also reachable by public transport from Leiden.
@@ -59,6 +59,8 @@ The conference takes place in the middle of the tulip season, which runs from mi
 ![Tulip fields in Lisse](assets/images/tulip-fields-lower.jpeg){:.center-images}
 
 ### Where to Eat in Leiden
+
+Leiden has many charming restaurants, most of them small because of their historic buildings and the limited space in the old city centre. April is high season in Leiden, so restaurants can get busy: booking ahead is recommended, and usually necessary for larger groups. The list below is just a selection of personal suggestions from the organisers.
 
 **Dutch & Casual**
 - [’t Pannenkoekenhuysje Oudt Leyden](https://www.google.com/maps/search/?api=1&query=Pannenkoekenhuysje+Oudt+Leyden+Steenstraat+49+Leiden) – Traditional Dutch pancakes, sweet and savoury
