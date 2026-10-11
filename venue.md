@@ -51,6 +51,13 @@ The city is very well connected by rail with major Dutch and international desti
 - [Rijksmuseum Boerhaave](https://www.rijksmuseumboerhaave.nl/en) {% include map-pin.html q="Rijksmuseum Boerhaave Leiden" %} – National museum of the history of science and medicine, including the apparatus Kamerlingh Onnes used to first liquefy helium
 - [Follow the Leiden Wall Formulas](https://muurformules.nl/?ln=en)
 
+### Tulip Season
+
+
+The conference takes place in the middle of the tulip season, which runs from mid-March to mid-May. The bulb fields between Leiden and Haarlem are a short ride from the city and are best explored by bike: rent one in Leiden and follow one of the [flower field cycling routes](https://www.leideninternationalcentre.nl/get-advice/blogs/flower-fields-around-leiden) (28–57 km). Along the way you can stop at [Keukenhof](https://keukenhof.nl/en/) in Lisse, one of the world's most famous flower gardens, open from 18 March to 9 May 2027 and also reachable by public transport from Leiden.
+
+![Tulip fields in Lisse](assets/images/tulip-fields-lower.jpeg){:.center-images}
+
 ### Where to Eat in Leiden
 
 **Dutch & Casual**
