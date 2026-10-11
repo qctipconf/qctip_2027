@@ -26,7 +26,7 @@ title: Venue
 
 ### Conference Dinner
 
-Conference dinner will take place in a historic venue in the city center of Leiden. 
+The conference dinner will take place in a historic venue in the city center of Leiden. 
 
 <!--![Leiden Venue](assets/images/venue-2.0.jpeg){: style="width:100%;" .center-image}-->
 
@@ -45,10 +45,10 @@ The city is very well connected by rail with major Dutch and international desti
 **Things to Do in Leiden**
 
 
-- Visit Burcht van Leiden
-- Visit Oude Sterrewacht (Old Observatory Leiden)
-- Visit Hortus Botanicus (Botanical Garden)
-- Visit Rijksmuseum Boerhaave Museum
+- Burcht van Leiden {% include map-pin.html q="Burcht van Leiden" %} – Medieval castle on an artificial mound, with views over the city's rooftops
+- Oude Sterrewacht {% include map-pin.html q="Oude Sterrewacht Leiden" %} – 1861 building of Leiden Observatory (founded 1633), the world's oldest operating university observatory
+- [Hortus Botanicus](https://hortusleiden.nl/) {% include map-pin.html q="Hortus Botanicus Leiden" %} – The oldest botanical garden in the Netherlands, founded in 1590
+- [Rijksmuseum Boerhaave](https://www.rijksmuseumboerhaave.nl/en) {% include map-pin.html q="Rijksmuseum Boerhaave Leiden" %} – National museum of the history of science and medicine, including the apparatus Kamerlingh Onnes used to first liquefy helium
 - [Follow the Leiden Wall Formulas](https://muurformules.nl/?ln=en)
 
 ### Where to Eat in Leiden

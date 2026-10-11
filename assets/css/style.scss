@@ -289,3 +289,11 @@ ul li,
 ol li {
   margin-bottom: 10px; /* adjust to your liking */
 }
+/* Location pin linking to Google Maps */
+.main-content a.map-pin {
+  text-decoration: none;
+}
+
+.map-pin svg {
+  vertical-align: -0.125em;
+}
