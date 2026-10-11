@@ -51,16 +51,23 @@ The city is very well connected by rail with major Dutch and international desti
 - Visit Rijksmuseum Boerhaave Museum
 - [Follow the Leiden Wall Formulas](https://muurformules.nl/?ln=en)
 
-<!--
 ### Where to Eat in Leiden
 
-**Restaurant Suggestions in the City Centre**
-- 't Pannenkoekenhuysje Oudt Leyden – Dutch pancakes 
-- Resto 2 – Brasserie dining on the High Street
-- Resto 3 – Indian small plates & lively atmosphere
-- Resto 4 – Contemporary European dining
-- Resto 5 – Larger Thai option with a fun atmosphere for groups.
--->
+**Dutch & Casual**
+- [’t Pannenkoekenhuysje Oudt Leyden](https://www.google.com/maps/search/?api=1&query=Pannenkoekenhuysje+Oudt+Leyden+Steenstraat+49+Leiden) – Traditional Dutch pancakes, sweet and savoury
+- [La Bota](https://www.google.com/maps/search/?api=1&query=La+Bota+Herensteeg+9+Leiden) – Cosy brown-café atmosphere with hearty, affordable food near the Pieterskerk
+- [Stadsbrouwhuis](https://www.google.com/maps/search/?api=1&query=Stadsbrouwhuis+Aalmarkt+Leiden) – Leiden’s city brewery, with 20 craft beers on tap and hearty food
+
+**International Cuisine**
+- [Het Prentenkabinet](https://www.google.com/maps/search/?api=1&query=Het+Prentenkabinet+Kloksteeg+25+Leiden) – Refined French-inspired cuisine in a historic building with a hidden garden terrace
+- [Bar Lokaal](https://www.google.com/maps/search/?api=1&query=Bar+Lokaal+Hartesteeg+13+Leiden) – Seasonal shared plates with excellent vegetarian dishes, in a lively bistro
+- [Aperitivo](https://www.google.com/maps/search/?api=1&query=Aperitivo+Breestraat+49+Leiden) – Italian pizza, pasta and small bites, with shared-dining menus for groups
+- [Verboden Toegang](https://www.google.com/maps/search/?api=1&query=Verboden+Toegang+Kaiserstraat+7+Leiden) – Modern European cuisine in a playful setting themed around rules and prohibitions
+- [Paco Ciao](https://www.google.com/maps/search/?api=1&query=Paco+Ciao+Stationsweg+25+Leiden) – Eclectic fusion dishes and cocktails in a bohemian setting near Leiden Centraal
+
+**Terraces on the Water**
+- [Waag](https://www.google.com/maps/search/?api=1&query=Waag+Leiden+Aalmarkt+21) – Restaurant in the 17th-century weigh house, with a terrace on the Nieuwe Rijn
+- [Annie’s](https://www.google.com/maps/search/?api=1&query=Annie%27s+Hoogstraat+1+Leiden) – Café-restaurant with a large water-level terrace where the Old and New Rhine meet
 
 
 
