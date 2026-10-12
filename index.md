@@ -17,11 +17,9 @@ Quantum Computing Theory in Practice (QCTiP) aims to bring together the academic
 - **Dates:** 12-14 April 2027
 - **Focus:** applied aspects of quantum computing theory
 - ~400 participants
-- brings together researchers, practitioners, and industry leaders
-- keynote talks
-- industry talks
-- ~50 contributed talks
-- ~200 poster presentations
+- Brings together researchers, practitioners, and industry leaders
+- Keynote talks, industry talks, 50+ contributed talks
+- 200+ poster presentations
 
 
 **[Sign Up](https://forms.gle/61MBgfK3JLB5iFWu8) to our mailing list to receive notifications of important events,
