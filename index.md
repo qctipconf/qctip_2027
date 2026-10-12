@@ -63,7 +63,7 @@ TODO: change figures
 
 ## Programme Committee Chair
 
-- **TBD**
+- **TBA**
 <!--
 TODO: fill in once chosen
 -->

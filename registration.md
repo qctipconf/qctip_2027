@@ -8,7 +8,7 @@ title: Registration
 # QCTiP 2027 Registration
 
 
-The registration will open soon. **[Sign Up](https://forms.gle/61MBgfK3JLB5iFWu8) to our mailing list** and stay tuned for the updates!
+Registration will open soon. **[Sign Up](https://forms.gle/61MBgfK3JLB5iFWu8) to our mailing list** and stay tuned for updates!
 
 <!--
 Please note that **tickets are sold on a first-come first-served basis**

@@ -9,23 +9,21 @@ title: Contact
 
 ### Sign up to Receive Notifications
 
-You can sign up via the below link to receive notifications of important events,
-such as when registration opens.
+You can sign up via the below link to receive notifications of important events, such as when registration opens.
 
 [Sign Up](https://forms.gle/61MBgfK3JLB5iFWu8)
 
 
 ### Get in Touch
 
-For general inquiries about QCTiP 2027, and inquiries about
-conference organisation please contact us using the below email address.
+For general inquiries about QCTiP 2027, please contact us at the email address below.
 
 <info@qctip.com>
 
 
 ### Sponsorship Opportunities
 
-Interested in sponsoring QCTiP 2027? Please contact us using the email <sponsor@qctip.com> for sponsorship packages and benefits.
+Interested in sponsoring QCTiP 2027? Please contact us at <sponsor@qctip.com> for sponsorship packages and benefits.
 
 
 

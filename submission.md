@@ -8,10 +8,7 @@ title: Call for Submissions
 
 # QCTiP 2027 Call for Submissions
 
-Talks will be selected based on their scientific excellence,
-fit to the workshop theme, and overall programme balance.
-Submissions are expected that report on recent advances in
-quantum information and computation.
+Talks will be selected based on their scientific excellence, fit to the workshop theme, and overall programme balance. Submissions are expected to report on recent advances in quantum information and computation.
 
 Submissions will open soon. 
 
