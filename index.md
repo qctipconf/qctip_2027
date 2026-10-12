@@ -47,12 +47,12 @@ such as when registration opens.**
 
 ## Steering Committee
 
-- **B&aacute;lint Koczor** (Mathematical Institute, University of Oxford)
+- **B&aacute;lint Koczor** (University of Oxford)
 - **Ophelia Crawford** (Riverlane)
-- **Elham Kashefi** (CNRS & Uni Edinburgh)
-- **Zoë Holmes** (EPFL)
 - **Jens Eisert** (FU Berlin)
-- **Noah Linden** (Uni Bristol)
+- **Zoë Holmes** (EPFL)
+- **Elham Kashefi** (CNRS & University of Edinburgh)
+- **Noah Linden** (University of Bristol)
 - **Jordi Tura** (Leiden University)
 
 
