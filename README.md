@@ -1,12 +1,12 @@
-# QCTiP 2026 - Quantum Computing Theory in Practice
+# QCTiP 2027 - Quantum Computing Theory in Practice
 
-Conference website for **Quantum Computing Theory in Practice (QCTiP 2026)**, hosted by the University of Oxford.
+Conference website for **Quantum Computing Theory in Practice (QCTiP 2027)**, hosted by Leiden University.
 
 This is a GitHub Pages site built with Jekyll using the Cayman theme.
 
 ## About the Conference
 
-QCTiP 2026 is an international conference bringing together researchers, practitioners, and industry leaders to explore the latest advances in quantum computing, bridging theory and practice.
+QCTiP 2027 is an international conference bringing together researchers, practitioners, and industry leaders to explore the latest advances in quantum computing, bridging theory and practice.
 
 ## Local Development
 
@@ -61,4 +61,4 @@ The site is automatically deployed to GitHub Pages when changes are pushed to th
 
 ## License
 
-Content © 2024 QCTiP Conference Organizers
+Content © 2026 QCTiP Conference Organizers
