@@ -31,7 +31,6 @@ The conference dinner will take place in a historic venue in the city center of 
 <!--![Leiden Venue](assets/images/venue-2.0.jpeg){: style="width:100%;" .center-image}-->
 
 
-
 # Travel Information
 
 ### About Leiden
@@ -42,6 +41,7 @@ where superconductivity was discovered in 1911. Rich in history, Leiden has some
 
 The city is very well connected by rail with major Dutch and international destinations and is easily accessible from Amsterdam Airport Schiphol. Most Leiden University buildings and faculties are within walking or cycling distance of the city centre.
 
+
 **Things to Do in Leiden**
 
 
@@ -51,8 +51,8 @@ The city is very well connected by rail with major Dutch and international desti
 - [Rijksmuseum Boerhaave](https://www.rijksmuseumboerhaave.nl/en) {% include map-pin.html q="Rijksmuseum Boerhaave Leiden" %} – National museum of the history of science and medicine, including the apparatus Kamerlingh Onnes used to first liquefy helium
 - [Follow the Leiden Wall Formulas](https://muurformules.nl/?ln=en)
 
-### Tulip Season in the Leiden region
 
+### Tulip Season in the Leiden region
 
 The conference takes place in the middle of the tulip season, which runs from mid-March to mid-May. The bulb fields between Leiden and Haarlem are a short ride from the city and are best explored by bike: rent one in Leiden and follow one of the [flower field cycling routes](https://www.leideninternationalcentre.nl/get-advice/blogs/flower-fields-around-leiden) (28–57 km). Along the way you can stop at [Keukenhof](https://keukenhof.nl/en/) in Lisse, one of the world's most famous flower gardens, open from 18 March to 9 May 2027 and also reachable by public transport from Leiden.
 
@@ -92,18 +92,3 @@ Leiden has many charming restaurants, most of them small because of their histor
 
 **By Car:**
 - Parking is very limited in the city centre
-
-
-<!--
-### Central Leiden Highlights 
-**Start:**
-The following central attractions are within 10–15 minutes’ walk of each other.
-
-
-
-### Finding Accommodation in Leiden
-
-Please refer to [Registration](/registration) for information about recommended hotels and accommodation options.
-
--->
-

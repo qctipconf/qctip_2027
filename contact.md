@@ -26,19 +26,4 @@ For general inquiries about QCTiP 2027, please contact us at the email address b
 Interested in sponsoring QCTiP 2027? Please contact us at <sponsor@qctip.com> for sponsorship packages and benefits.
 
 
-
 ![Acknowledgments](assets/images/sponsors-logos.png){:.center-image width=100%}
-
-<!--
-### Paper Submissions
-
-For questions about paper submissions, please contact the Programme Committee Chair.
-
-
-### Registration
-
-For registration-related questions, please email us at the general inquiries address above.
-
--->
-
-

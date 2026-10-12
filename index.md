@@ -4,9 +4,6 @@ title: QCTiP 2027 Leiden
 ---
 
 ![Leiden Hooglandse Kerk](assets/images/cover.png){:.center-image width=100%}
-<!--
-TODO: change figures
--->
 
 
 ## Quantum Computing Theory in Practice (QCTiP)
@@ -27,30 +24,12 @@ Quantum Computing Theory in Practice (QCTiP) aims to bring together the academic
 - ~200 poster presentations
 
 
-<!--![Oxford Venue](assets/images/grp.jpg){:.center-image width=100%
-TODO: change figures
-
-
-## Key Dates
-
-- **Registration Opening:** January 11, 2027
-- **Talk Submission Opening:** November 30, 2026
-- **Talk Submission Deadline:** December 11, 2026
-- **Poster Submission Deadline:** December 23, 2026
-- **Talk Notification of Acceptance:** February 1, 2027
-- **Poster Notification of Acceptance:** February 12, 2027
-- **Registration Closing:** March 12, 2027
-- **Conference Dates:** 12-14 April 2027
--->
 **[Sign Up](https://forms.gle/61MBgfK3JLB5iFWu8) to our mailing list to receive notifications of important events,
 such as when registration opens.**
 
 
-
 ![Leiden Venue](assets/images/venue-city.jpeg){:.center-image width=100%}
-<!--
-TODO: change figures
--->
+
 
 ## Local Organisers
 
@@ -64,9 +43,7 @@ TODO: change figures
 ## Programme Committee Chair
 
 - **TBA**
-<!--
-TODO: fill in once chosen
--->
+
 
 ## Steering Committee
 
@@ -77,17 +54,12 @@ TODO: fill in once chosen
 - **Jens Eisert** (FU Berlin)
 - **Noah Linden** (Uni Bristol)
 - **Jordi Tura** (Leiden University)
-<!--
-TODO: verify this is still current
--->
+
 
 ## Code of Conduct
 
 QCTiP2027 is committed to ensuring a harassment-free environment for all attendees, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or nationality. We maintain a zero-tolerance policy towards harassment in any form. Any participant found violating this code of conduct may face sanctions or expulsion from the conference, at the discretion of the organisers.
 
-<!--
-TODO: provide details for reporting CoC violations and getting local support. (see QCTiP 2025 website for example)
--->
 
 ## Sponsors
 
