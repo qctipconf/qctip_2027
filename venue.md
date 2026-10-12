@@ -54,7 +54,7 @@ The city is very well connected by rail with major Dutch and international desti
 
 ### Tulip Season in the Leiden region
 
-The conference takes place in the middle of the tulip season, which runs from mid-March to mid-May. The bulb fields between Leiden and Haarlem are a short ride from the city and are best explored by bike: rent one in Leiden and follow one of the [flower field cycling routes](https://www.leideninternationalcentre.nl/get-advice/blogs/flower-fields-around-leiden) (28–57 km). Along the way you can stop at [Keukenhof](https://keukenhof.nl/en/) in Lisse, one of the world's most famous flower gardens, open from 18 March to 9 May 2027 and also reachable by public transport from Leiden.
+The conference takes place in the middle of the tulip season, which runs from mid-March to mid-May. The bulb fields between Leiden and Haarlem are a short ride from the city and are best explored by bike: rent one in Leiden and follow one of the [flower field cycling routes](https://www.leideninternationalcentre.nl/get-advice/blogs/flower-fields-around-leiden) (28–57 km). Along the way, you can stop at [Keukenhof](https://keukenhof.nl/en/) in Lisse, one of the world's most famous flower gardens, open from 18 March to 9 May 2027 and also reachable by public transport from Leiden.
 
 ![Tulip fields in Lisse](assets/images/tulip-fields-lower.jpeg){:.center-images}
 
@@ -84,10 +84,10 @@ Leiden has many charming restaurants, most of them small because of their histor
 ### Getting to Leiden
 
 **By Air:**
-- Schiphol Airport (approximately 30 min by train)
+- Amsterdam Schiphol Airport, approximately 20 min by train
 
 **By Train:**
-- Direct trains from Amsterdam central and other major Dutch cities
+- Direct trains from Amsterdam, Rotterdam, Utrecht and other major Dutch cities, which offer direct connections to London, Paris, Brussels, Munich, or Berlin.
 - Use [NS app](https://www.ns.nl/en/travel/ns-app) for up-to-date travel information
 
 **By Car:**
