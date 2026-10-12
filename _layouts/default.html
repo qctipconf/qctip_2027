@@ -28,10 +28,12 @@
     <main id="content" class="main-content" role="main">
       {{ content }}
 
-      <footer class="site-footer">
+      <footer class="site-footer">   
+        {% comment %}
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
+        {% endcomment %}
         <span class="site-footer-credits">
           &copy; {{ site.conference.year }} {{ site.conference.name }}. 
           Powered by <a href="https://pages.github.com">GitHub Pages</a> and <a href="https://jekyllrb.com/">Jekyll</a>.
