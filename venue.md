@@ -87,7 +87,7 @@ Leiden has many charming restaurants, most of them small because of their histor
 - Amsterdam Schiphol Airport, approximately 20 min by train
 
 **By Train:**
-- Direct trains from Amsterdam, Rotterdam, Utrecht and other major Dutch cities, which offer direct connections to London, Paris, Brussels, Munich, or Berlin.
+- Direct trains from Amsterdam, Rotterdam, Utrecht, and other major Dutch cities, which offer direct connections to London, Paris, Brussels, Munich, or Berlin.
 - Use [NS app](https://www.ns.nl/en/travel/ns-app) for up-to-date travel information
 
 **By Car:**

@@ -31,11 +31,12 @@ such as when registration opens.**
 
 ## Local Organisers
 
-- **Julius Mildenberger** (LION & aQa, Leiden University)
+
+- **Vedran Dunjko** (LIACS & aQa, Leiden University)
+- **Jordi Tura** (LION & aQa, Leiden University)
 - **Stefano Polla** (HIMS, IvI & QuSoft, University of Amsterdam)
 - **Anastasiia Skurativska** (LIACS & aQa, Leiden University)
-- **Jordi Tura** (LION & aQa, Leiden University)
-- **Vedran Dunjko** (LIACS & aQa, Leiden University)
+- **Julius Mildenberger** (LION & aQa, Leiden University)
 
 
 ## Programme Committee Chair
