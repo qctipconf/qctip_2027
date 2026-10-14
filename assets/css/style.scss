@@ -56,9 +56,17 @@ body {
 /* Header gradient */
 .page-header {
   background: var(--leiden-blue-super-light) !important;
-  background-image: var(--leiden-orange) !important;
-  color: var(--leiden-orange) !important;
-  padding: 2rem;
+  /* background-image: var(--leiden-orange) !important; [Superfluous line.]*/
+  color: var(--leiden-blue) !important;
+  padding: 0.75rem 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem 2.5rem;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
 }
 
 /* Conference info styling */
@@ -87,34 +95,37 @@ body {
 }
 
 /* Navigation styling */
-nav {
-  text-align: center;
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.25rem 2rem;
+  margin-top: 0;
 }
 
-nav a {
-  background: var(--leiden-blue) !important;
-  color: white !important;
-  padding: 0.75rem 1.5rem !important;
-  border-radius: 6px !important;
-  text-decoration: none !important;
-  margin: 0.25rem !important;
-  display: inline-block !important;
-  font-weight: 500 !important;
-//   transition: all 0.3s ease !important;
-  border: 2px solid var(--leiden-blue) !important;
+.nav a {
+  color: var(--leiden-blue);
+  font-size: 0.95rem;
+  text-decoration: none;
+  padding: 0.4rem 0;
+  border-bottom: 2px solid transparent;
+  transition: border-color 0.2s ease;
 }
 
-nav a:hover {
-  background: var(--leiden-blue-light) !important;
-  box-shadow: 0 4px 8px rgba(0, 33, 71, 0.3) !important;
-  border-color: var(--leiden-blue-lighter) !important;
-  transition: all 0.3s ease !important;
+.nav a:hover {
+  border-bottom-color: var(--orange-line);
 }
 
-nav a:focus {
-  outline: 3px solid var(--leiden-blue-accent) !important;
-  outline-offset: 2px !important;
+.nav a[aria-current="page"] {
+  border-bottom-color: var(--leiden-orange);
 }
+
+.nav a:focus-visible,
+.site-name:focus-visible {
+  outline: 3px solid var(--leiden-blue-accent);
+  outline-offset: 4px;
+}
+
 
 /* Link colors */
 .main-content a:not(nav a) {
@@ -179,7 +190,6 @@ nav a:focus {
 /* Header text styling for better contrast */
 .page-header h1,
 .page-header h2 {
-  text-shadow: 2px 2px 4px white;
   margin-bottom: 0.5rem;
 }
 
@@ -230,6 +240,18 @@ nav a:focus {
   color: white;
 }
 
+/* Site name styling */
+.site-name {
+  color: var(--leiden-blue);
+  font-size: 1.25rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.site-name:hover {
+  text-decoration: none;
+}
+
 /* Footer styling */
 .site-footer {
   border-top: 2px solid var(--orange-line);
@@ -245,11 +267,7 @@ nav a:focus {
 
 /* Responsive adjustments */
 @media screen and (max-width: 42em) {
-  nav a {
-    display: block !important;
-    margin: 0.5rem 0 !important;
-    width: 100%;
-  }
+  .nav { gap: 0 1.25rem; }
   
   .page-header h1 {
     font-size: 2rem;

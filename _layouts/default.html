@@ -14,14 +14,16 @@
   </head>
   <body>
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <a class="site-name" href="{{ '/' | relative_url }}">QCTiP 2027</a>
+      {% comment %} <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> {% endcomment %}
       <nav class="nav">
-		<a href="{{ '/' | relative_url }}">About</a>
-		<a href="{{ '/venue' | relative_url }}">Venue</a>
-		<a href="{{ '/registration' | relative_url }}">Registration</a>
-		<a href="{{ '/programme' | relative_url }}">Programme</a>
-		<a href="{{ '/submission' | relative_url }}">Call for Submissions</a>
-		<a href="{{ '/contact' | relative_url }}">Contact</a>
+        {% assign current = page.url | remove: 'index.html' | remove: '.html' | append: '/' | replace: '//', '/' %}
+        <a href="{{ '/' | relative_url }}" {% if current == '/' %}aria-current="page"{% endif %}>About</a>
+        <a href="{{ '/venue' | relative_url }}" {% if current == '/venue/' %}aria-current="page"{% endif %}>Venue</a>
+        <a href="{{ '/registration' | relative_url }}" {% if current == '/registration/' %}aria-current="page"{% endif %}>Registration</a>
+        <a href="{{ '/programme' | relative_url }}" {% if current == '/programme/' %}aria-current="page"{% endif %}>Programme</a>
+        <a href="{{ '/submission' | relative_url }}" {% if current == '/submission/' %}aria-current="page"{% endif %}>Call for Submissions</a>
+        <a href="{{ '/contact' | relative_url }}" {% if current == '/contact/' %}aria-current="page"{% endif %}>Contact</a>
       </nav>
     </header>
 
