@@ -55,7 +55,9 @@ body {
 
 /* Header gradient */
 .page-header {
-  background: var(--leiden-blue-super-light) !important;
+  background: color-mix(in srgb, var(--leiden-blue-super-light) 75%, transparent) !important;
+  backdrop-filter: saturate(180%) blur(12px);
+  border-bottom: 1px solid color-mix(in srgb, var(--leiden-blue) 15%, transparent);
   /* background-image: var(--leiden-orange) !important; [Superfluous line.]*/
   color: var(--leiden-blue) !important;
   padding: 0.75rem 2rem;
