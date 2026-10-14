@@ -25,6 +25,10 @@
         <a href="{{ '/submission' | relative_url }}" {% if current == '/submission/' %}aria-current="page"{% endif %}>Submissions</a>
         <a href="{{ '/contact' | relative_url }}" {% if current == '/contact/' %}aria-current="page"{% endif %}>Contact</a>
       </nav>
+      <script>
+        var current = document.querySelector('.nav a[aria-current="page"]');
+        if (current) current.scrollIntoView({ block: 'nearest', inline: 'center' });
+      </script>
     </header>
 
     <main id="content" class="main-content" role="main">
