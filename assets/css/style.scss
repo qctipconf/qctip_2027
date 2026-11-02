@@ -271,7 +271,7 @@ body {
 @media screen and (max-width: 42em) {
   .page-header {
     padding: 0.5rem 1rem;
-    gap: 1.25rem;
+    gap: 1rem;
     flex-wrap: nowrap;
   }
 
@@ -281,7 +281,7 @@ body {
   }
 
   .nav { 
-    gap: 1.25rem;
+    gap: 1rem;
     flex: 1;
     min-width: 0;
     flex-wrap: nowrap;
