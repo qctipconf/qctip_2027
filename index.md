@@ -41,7 +41,7 @@ such as when registration opens.**
 
 ## Programme Committee Chair
 
-- **TBA**
+- **Petros Wallden** (University of Edinburgh)
 
 
 ## Steering Committee
